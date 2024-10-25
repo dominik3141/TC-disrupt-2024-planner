@@ -7,7 +7,6 @@ function loadAgenda() {
         .then(data => {
             agenda = data;
             loadSelectedEvents();
-            createDayTables();
         })
         .catch(error => console.error('Error loading agenda:', error));
 }
@@ -17,6 +16,7 @@ function loadSelectedEvents() {
         .then(response => response.json())
         .then(data => {
             selectedEvents = data;
+            createDayTables(); // Move this here to ensure selected events are loaded first
             updateSelectedEvents();
         })
         .catch(error => console.error('Error loading selected events:', error));
@@ -37,6 +37,7 @@ function saveSelectedEvents() {
 
 function createDayTables() {
     const dayTablesDiv = document.getElementById('dayTables');
+    dayTablesDiv.innerHTML = ''; // Clear existing tables
     agenda.forEach(day => {
         const table = document.createElement('table');
         const caption = table.createCaption();
@@ -54,11 +55,12 @@ function createDayTables() {
             row.insertCell().textContent = session.time;
             row.insertCell().textContent = session.title;
             row.insertCell().textContent = session.room;
-            row.insertCell().textContent = session.session_type || ''; // Add fallback for missing session_type
+            row.insertCell().textContent = session.session_type || '';
 
             const selectCell = row.insertCell();
             const checkbox = document.createElement('input');
             checkbox.type = 'checkbox';
+            checkbox.checked = selectedEvents.some(event => event.id === session.id);
             checkbox.addEventListener('change', () => toggleEventSelection(session, checkbox));
             selectCell.appendChild(checkbox);
         });
@@ -69,15 +71,17 @@ function createDayTables() {
 
 function toggleEventSelection(session, checkbox) {
     if (checkbox.checked) {
-        selectedEvents.push({
-            id: session.id,
-            title: session.title,
-            date: session.date,
-            startTime: session.time.split('–')[0].trim(),
-            endTime: session.time.split('–')[1].trim(),
-            room: session.room,
-            description: session.description
-        });
+        if (!selectedEvents.some(event => event.id === session.id)) {
+            selectedEvents.push({
+                id: session.id,
+                title: session.title,
+                date: session.date,
+                startTime: session.time.split('–')[0].trim(),
+                endTime: session.time.split('–')[1].trim(),
+                room: session.room,
+                description: session.description
+            });
+        }
     } else {
         selectedEvents = selectedEvents.filter(event => event.id !== session.id);
     }
@@ -131,4 +135,26 @@ function doTimesOverlap(start1, end1, start2, end2) {
     return s1 < e2 && s2 < e1;
 }
 
+// Update the downloadCalendar function
+function downloadCalendar() {
+    fetch('/download_calendar', {
+        method: 'GET',
+    })
+        .then(response => response.blob())
+        .then(blob => {
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.style.display = 'none';
+            a.href = url;
+            a.download = 'techcrunch_disrupt_events.ics';
+            document.body.appendChild(a);
+            a.click();
+            window.URL.revokeObjectURL(url);
+        })
+        .catch(error => console.error('Error downloading calendar:', error));
+}
+
 window.onload = loadAgenda;
+
+// Add this to the end of the loadAgenda function
+document.getElementById('downloadCalendar').addEventListener('click', downloadCalendar);
