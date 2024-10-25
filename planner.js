@@ -77,6 +77,7 @@ function createDayTables() {
 }
 
 function showEventDescription(session) {
+    const scrollPosition = window.pageYOffset;
     const modal = document.createElement('div');
     modal.className = 'modal';
     modal.innerHTML = `
@@ -96,8 +97,10 @@ function showEventDescription(session) {
     const closeBtn = modal.querySelector('.close');
     const closeModal = () => {
         document.body.removeChild(modal);
-        document.body.classList.remove('modal-open');
-        document.removeEventListener('keydown', handleEscapeKey);
+        document.body.style.position = '';
+        document.body.style.top = '';
+        document.body.style.width = '';
+        window.scrollTo(0, scrollPosition);
     };
 
     closeBtn.onclick = closeModal;
@@ -117,7 +120,6 @@ function showEventDescription(session) {
     document.addEventListener('keydown', handleEscapeKey);
 
     // Open the modal
-    document.body.classList.add('modal-open');
     modal.style.display = 'flex';
 }
 
