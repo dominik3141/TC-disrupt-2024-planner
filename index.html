@@ -6,80 +6,152 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TechCrunch Disrupt Planner</title>
     <style>
+        :root {
+            --primary-color: #00a9e0;
+            --secondary-color: #2c3e50;
+            --background-color: #f5f7fa;
+            --table-header-color: #34495e;
+            --table-row-hover: #e6f3ff;
+            --selected-color: #2ecc71;
+            --conflict-color: #e74c3c;
+        }
+
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             max-width: 1200px;
             margin: 0 auto;
             padding: 20px;
-            background-color: #f0f0f0;
+            background-color: var(--background-color);
+            color: var(--secondary-color);
+            line-height: 1.6;
         }
 
         h1,
         h2 {
-            color: #2c3e50;
+            color: var(--primary-color);
+            text-align: center;
+            margin-bottom: 30px;
         }
 
         table {
-            border-collapse: collapse;
+            border-collapse: separate;
+            border-spacing: 0;
             width: 100%;
-            margin-bottom: 20px;
+            margin-bottom: 30px;
             background-color: white;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+            table-layout: fixed;
         }
 
         th,
         td {
-            border: 1px solid #ddd;
-            padding: 12px;
+            padding: 15px;
             text-align: left;
+            border-bottom: 1px solid #e0e0e0;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
         }
 
         th {
-            background-color: #3498db;
+            background-color: var(--table-header-color);
             color: white;
             font-weight: bold;
+            text-transform: uppercase;
+            font-size: 0.9em;
+            letter-spacing: 0.5px;
         }
 
-        /* Alternating row shading */
+        th:nth-child(1),
+        td:nth-child(1) {
+            width: 15%;
+        }
+
+        /* Time */
+
+        th:nth-child(2),
+        td:nth-child(2) {
+            width: 40%;
+        }
+
+        /* Title */
+
+        th:nth-child(3),
+        td:nth-child(3) {
+            width: 20%;
+        }
+
+        /* Room */
+
+        th:nth-child(4),
+        td:nth-child(4) {
+            width: 15%;
+        }
+
+        /* Type */
+
+        th:nth-child(5),
+        td:nth-child(5) {
+            width: 10%;
+        }
+
+        /* Select */
+
         tr:nth-child(even) {
-            background-color: #f2f2f2;
+            background-color: #f9f9f9;
         }
 
-        /* Hover effect */
         tr:hover {
-            background-color: #e6f3ff;
+            background-color: var(--table-row-hover);
             transition: background-color 0.3s ease;
         }
 
         caption {
             font-size: 1.2em;
             font-weight: bold;
-            margin-bottom: 10px;
-            color: #2c3e50;
+            margin-bottom: 15px;
+            color: var(--secondary-color);
+            text-align: left;
+            padding: 0 15px;
         }
 
         .selected {
-            background-color: #2ecc71;
+            background-color: var(--selected-color);
+            color: white;
         }
 
         .conflict {
-            background-color: #e74c3c;
+            background-color: var(--conflict-color);
             color: white;
         }
 
         input[type="checkbox"] {
             transform: scale(1.5);
+            margin-right: 10px;
         }
 
-        #dayTables {
+        #dayTables,
+        #selectedEvents {
             display: flex;
             flex-direction: column;
-            gap: 20px;
+            gap: 30px;
         }
 
-        #dayTables table {
-            width: 100%;
-            margin-bottom: 20px;
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+
+        #dayTables table,
+        #selectedEvents table {
+            animation: fadeIn 0.5s ease-in-out;
         }
     </style>
 </head>
