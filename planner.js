@@ -63,10 +63,62 @@ function createDayTables() {
             checkbox.checked = selectedEvents.some(event => event.id === session.id);
             checkbox.addEventListener('change', () => toggleEventSelection(session, checkbox));
             selectCell.appendChild(checkbox);
+
+            // Add click event listener to the row
+            row.addEventListener('click', (e) => {
+                if (e.target !== checkbox) {
+                    showEventDescription(session);
+                }
+            });
         });
 
         dayTablesDiv.appendChild(table);
     });
+}
+
+function showEventDescription(session) {
+    const modal = document.createElement('div');
+    modal.className = 'modal';
+    modal.innerHTML = `
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>${session.title}</h2>
+            <p><strong>Time:</strong> ${session.time}</p>
+            <p><strong>Room:</strong> ${session.room}</p>
+            <p><strong>Type:</strong> ${session.session_type || 'N/A'}</p>
+            <p><strong>Description:</strong></p>
+            <p>${session.description || 'No description available.'}</p>
+        </div>
+    `;
+
+    document.body.appendChild(modal);
+
+    const closeBtn = modal.querySelector('.close');
+    const closeModal = () => {
+        document.body.removeChild(modal);
+        document.body.classList.remove('modal-open');
+        document.removeEventListener('keydown', handleEscapeKey);
+    };
+
+    closeBtn.onclick = closeModal;
+
+    window.onclick = (event) => {
+        if (event.target === modal) {
+            closeModal();
+        }
+    };
+
+    const handleEscapeKey = (event) => {
+        if (event.key === 'Escape') {
+            closeModal();
+        }
+    };
+
+    document.addEventListener('keydown', handleEscapeKey);
+
+    // Open the modal
+    document.body.classList.add('modal-open');
+    modal.style.display = 'flex';
 }
 
 function toggleEventSelection(session, checkbox) {
