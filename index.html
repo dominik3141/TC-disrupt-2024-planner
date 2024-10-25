@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechCrunch Disrupt Planner</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+
+        h1,
+        h2 {
+            color: #2c3e50;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 20px;
+            background-color: white;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        th,
+        td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #3498db;
+            color: white;
+            font-weight: bold;
+        }
+
+        /* Alternating row shading */
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        /* Hover effect */
+        tr:hover {
+            background-color: #e6f3ff;
+            transition: background-color 0.3s ease;
+        }
+
+        caption {
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #2c3e50;
+        }
+
+        .selected {
+            background-color: #2ecc71;
+        }
+
+        .conflict {
+            background-color: #e74c3c;
+            color: white;
+        }
+
+        input[type="checkbox"] {
+            transform: scale(1.5);
+        }
+
+        #dayTables {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        #dayTables table {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>TechCrunch Disrupt Planner</h1>
+    <div id="dayTables"></div>
+    <h2>Selected Events</h2>
+    <div id="selectedEvents"></div>
+
+    <script src="planner.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,1732 @@
+[
+  {
+    "date": "October 27th",
+    "sessions": [
+      {
+        "id": "early-badge-pickup-for-all-registered-attendees",
+        "title": "Early Badge Pickup for All Registered Attendees",
+        "description": "Beat and rush and pick up your badges early at the Moscone West.",
+        "date": "October 27th",
+        "time": "2:00PM – 5:00PM",
+        "room": "Registration",
+        "session_type": null,
+        "speakers": []
+      }
+    ]
+  },
+  {
+    "date": "October 28th",
+    "sessions": [
+      {
+        "id": "registration-hours",
+        "title": "Registration Hours.",
+        "description": "Stop by the registration desk to pick up your badge or help desk for assistance.",
+        "date": "October 28th",
+        "time": "7:30AM – 5:30PM",
+        "room": "Registration",
+        "session_type": null,
+        "speakers": []
+      },
+      {
+        "id": "startups-in-dual-use",
+        "title": "Startups in Dual-use",
+        "description": "Government and defense are relying more and more on commercial services, but startups face a real challenge entering this highly regulated and formal side of the industry. How can young, lean companies compete for contracts and attention with primes and more established organizations – and how can investors help?",
+        "date": "October 28th",
+        "time": "8:05AM – 8:35AM",
+        "room": "Industry Stage- Space",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "future-of-space-operations-challenge",
+        "title": "Future of Space Operations Challenge",
+        "description": "This open call pitch-off will present startups across robotics, autonomous systems, AI/ML, Vision Systems, Propulsion and Navigation. Five finalists will pitch to Aerospace judges and one winner will get access to expert lead feedback sessions with The Aerospace Corporation, government experts, and commercial space leadership.",
+        "date": "October 28th",
+        "time": "8:35AM – 9:35AM",
+        "room": "Industry Stage- Space",
+        "session_type": "Pitches",
+        "speakers": []
+      },
+      {
+        "id": "networking-powered-by-braindate",
+        "title": "Networking Powered By Braindate",
+        "description": "Schedule a 1:1 or group Braindate conversation by accessing the Braindate platform via our event app.",
+        "date": "October 28th",
+        "time": "9:00AM – 5:00PM",
+        "room": "Networking Lounge",
+        "session_type": null,
+        "speakers": []
+      },
+      {
+        "id": "found-live-with-kai-kloepfer-from-biofire",
+        "title": "Found Live with Kai Kloepfer from Biofire",
+        "description": "Senior reporters Becca Szkutak and Dominic-Madori Davis will sit down with Kai Kloepfer, the founder and CEO of Biofire, a startup building a biometrically-authenticated handgun that instantly unlocks for users authorized by its owner, but remains locked for all others. They’ll discuss how he navigates everything from building the product, to raising funding and hiring a team. Found is the Techcrunch podcast that gets the stories behind the startups with the people who are building them.",
+        "date": "October 28th",
+        "time": "9:00AM – 9:30AM",
+        "room": "Builders Stage",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "what-you-need-to-raise-a-series-a-and-beyond-today",
+        "title": "What You Need to Raise a Series A (and Beyond) Today",
+        "description": "If you aren’t building the next foundation model AI company, raising a Series A today is likely harder than it has been in some time. So, to help founders building at the Seed-stage prepare for their first lettered-round, we’ve rounded up investors to explain what they – and their firms – are looking for in their next Series A deals.",
+        "date": "October 28th",
+        "time": "9:30AM – 10:10AM",
+        "room": "Builders Stage",
+        "session_type": "Fundraising",
+        "speakers": []
+      },
+      {
+        "id": "beyond-snowflake-and-databricks-insights-from-the-frontlines-of-",
+        "title": "Beyond Snowflake and Databricks: Insights from the Frontlines of Data Transformation Disruption",
+        "description": "By 2025 our global data volume will reach 175 zetabytes, a figure that is 50% more than 2023. But while the wealth of data grows, it remains unwieldy to use. Poor data quality costs organizations an average of $12.9M annually. As organizations grapple with the exponential growth of data, they need better data transformation solutions to process it.The worldwide spending on such digital transformation solutions is forecasted to reach $3.9 trillion by 2027. In other words, the market is ripe for challenging the status quo, even despite the continued growth of data darlings Snowflake and Databricks.Tomasz can speak to the future of data in the context of SF and DB’s direct competition, and how startups are tackling these challenges head-on amidst the acceleration of two industry giants.",
+        "date": "October 28th",
+        "time": "9:30AM – 10:20AM",
+        "room": "Breakout Stage 2",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "pavilion-pitch-1-korea",
+        "title": "Pavilion Pitch Session 1- Korea",
+        "description": "Please join us at the Pitch Showcase Stage in the Expo Hall for these rapid fire pitches. This session will feature companies participating in the Korea Pavilion, sponsored by KOTRA (Korea Trade-Investment Promotion Agency)",
+        "date": "October 28th",
+        "time": "9:30AM – 10:00AM",
+        "room": "Pitch Showcase Stage",
+        "session_type": "Pitches",
+        "speakers": []
+      },
+      {
+        "id": "peter-beck-takes-the-space-industry-by-the-fins",
+        "title": "Peter Beck Takes the Space Industry by the Fins",
+        "description": "As the founder and CEO of Rocket Lab, Peter Beck is a familiar face to anyone in the space industry. But the company’s ambitions go far beyond its popular Electron launch vehicle: Beck believes that to thrive, perhaps even to survive, space companies will have to become fully integrated one-stop shops. Hear how Rocket Lab is pursuing this ambitious goal.",
+        "date": "October 28th",
+        "time": "9:40AM – 10:05AM",
+        "room": "Industry Stage- Space",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "how-to-build-and-run-your-board",
+        "title": "How to Build and Run Your Board",
+        "description": "Join Justworks’ CEO, Mike Seckler, for a discussion on how to build and run a high-performing board of directors. For many founders, board meetings can feel like a massive suck of time, focus, and resources. What if your board gave you energy instead? As a founder, you have the opportunity to set a foundation and approach that leads to more productive board conversations that make you and your company better. Participants will leave this session with multiple ideas for building a high-performing board from Mike’s experience as a two-time founder, board member, and from his own journey at Justworks (early investor/board member to CEO).",
+        "date": "October 28th",
+        "time": "10:00AM – 10:30AM",
+        "room": "Roundtable 1",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "winning-at-startup-pr-without-paying-for-an-agency-with-ex-techc",
+        "title": "Winning at Startup PR Without Paying for an Agency, with ex-TechCrunch editor Josh Constine",
+        "description": "Sick of emailing reporters with no response and don’t want to cough up $15K per month for a PR agency? Lesson One: It’s about what audiences want to hear, not what you want to say. With the right mix of concise storytelling and data-driven content, you can learn to pitch press by yourself. In this roundtable session led by former TechCrunch editor-at-large turned VC Josh Constine, you’ll get the playbook for how to teach readers something while you boost your fundraising, recruiting, and sales. Ask your biggest questions about how PR works, and hear what red flags are getting your pitches deleted.",
+        "date": "October 28th",
+        "time": "10:00AM – 10:30AM",
+        "room": "Roundtable 2",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "tackle-every-challenge-head-on-with-affiliate-marketing",
+        "title": "Tackle Every Challenge Head on with Affiliate Marketing",
+        "description": "Affiliate marketing is just bottom-of-the-funnel, discount-focused, spammy content sites, right? Wrong. With an influx of innovative strategic partners and ecommerce technologies emerging in the channel, online brands can solve any marketing challenge far beyond that traditional advertising funnel. Need to drive more traffic to your store? Want to convert more shoppers into buyers? Looking to encourage repeat business and referrals? There’s an affiliate solution for these obstacles and more. We will discuss how today’s affiliate channel offers a kaleidoscope of partners helping online brands to enhance their sales and marketing efforts.",
+        "date": "October 28th",
+        "time": "10:00AM – 10:30AM",
+        "room": "Roundtable 3",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "startup-battlefield-200-hardware-robotics-iot-pitches",
+        "title": "Startup Battlefield 200 Hardware, Robotics + IoT Pitches",
+        "description": "Please join us at the Pitch Showcase Stage in the Expo Hall for these rapid fire pitches. This session will feature the Hardware, Robotics + IoT companies from this year’s Startup Battlefield 200 cohort.",
+        "date": "October 28th",
+        "time": "10:00AM – 12:00PM",
+        "room": "Pitch Showcase Stage",
+        "session_type": "Pitches",
+        "speakers": []
+      },
+      {
+        "id": "there-and-back-again-solving-orbital-delivery",
+        "title": "There and Back Again: Solving Orbital Delivery",
+        "description": "Humanity has (mostly) mastered cargo delivery here on Earth, but what about in space? A new wave of startups are trying to bring to the market a never-been-done-before capability: responsive, ultra-precise delivery to and from orbit. This type of responsive logistics could change the game for how the military and commercial companies plan their logistics, and these startup founders are determined to make it a reality.",
+        "date": "October 28th",
+        "time": "10:05AM – 10:35AM",
+        "room": "Industry Stage- Space",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "assaf-rappaport-from-zero-day-to-hero",
+        "title": "Assaf Rappaport: from Zero-Day to Hero",
+        "description": "Fresh off a $1 billion funding round, Wiz has shot to fame as one of the fastest-growing, impactful cloud security startups ever. And one of the most sought after: earlier this year it rebuffed a $23 billion M&A offer from Google. Come hear its CEO talk about his journey as a founder and the challenges (and opportunities) ahead.",
+        "date": "October 28th",
+        "time": "10:05AM – 10:35AM",
+        "room": "Disrupt Stage",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "how-ai-and-xr-will-revolutionize-all-of-your-devices",
+        "title": "How AI and XR Will Revolutionize All of Your Devices",
+        "description": "Join us for an engaging panel session where Ziad Asghar, SVP & GM, XR, Qualcomm, will explore the transformative potential of on-device AI and XR technologies in creating a unified and immersive experience across all your personal tech devices. Discover how the integration of smartphones, smartwatches, AR glasses, and PCs can elevate your daily digital interactions to unprecedented levels. Leveraging Qualcomm’s advanced AI capabilities, these devices will offer superior performance and efficiency, enhancing productivity, entertainment, and everyday tasks through seamless connectivity and smart technology integration.Asghar will delve into how AI and XR are not just enhancing device interaction but are revolutionizing it by allowing for more natural and intuitive user experiences. With XR glasses, for instance, users can interact with their environment in real-time, receive proactive suggestions, and access a wealth of information without ever looking at a screen. This integration promises to keep users fully engaged in the real world while simultaneously enjoying the benefits of digital augmentation.Don’t miss this opportunity to learn how the synergy between AI and XR is setting the stage for a future where digital and physical realms seamlessly converge, transforming our digital lives and how we interact with technology.",
+        "date": "October 28th",
+        "time": "10:10AM – 10:30AM",
+        "room": "Builders Stage",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "how-to-find-and-keep-product-market-fit",
+        "title": "How to Find, and Keep, Product-Market Fit",
+        "description": "Every startup knows that they need to find product market fit. But once they do find true resonance between what they are offering and what there is demand for, how should a startup ensure that they do not lose the product-market fit that they have gained? Finding PMF is one thing; maintaining it is another.",
+        "date": "October 28th",
+        "time": "10:30AM – 11:10AM",
+        "room": "Builders Stage",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "the-future-of-high-growth-tech-beyond-the-apple-app-store",
+        "title": "The Future of High-Growth Tech: Beyond the Apple App Store",
+        "description": "As the tech landscape evolves, the next wave of high-growth, high-impact companies may not emerge from the Apple app store, but rather from the Microsoft app store. This shift signals a broader transformation in historically slow-moving industries like legal tech, where innovative solutions are challenging the status quo. Buyers in these sectors are increasingly open to embracing change, paving the way for a new era of technological advancement. Join our panel of experts as we explore how AI and other emerging technologies are driving this evolution, and what it means for the future of knowledge work in industries traditionally resistant to rapid change.",
+        "date": "October 28th",
+        "time": "10:30AM – 11:20AM",
+        "room": "Breakout Stage 1",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "the-startup-battlefield-1",
+        "title": "The Startup Battlefield – Session 1",
+        "description": "TechCrunch’s iconic startup competition is back, as entrepreneurs from around the world pitch expert judges and vie for the Startup Battlefield Cup and $100,000.",
+        "date": "October 28th",
+        "time": "10:35AM – 11:50AM",
+        "room": "Disrupt Stage",
+        "session_type": "Startup Battlefield",
+        "speakers": []
+      },
+      {
+        "id": "bridgit-mendler-on-moving-from-disney-star-to-startup-founder",
+        "title": "Bridgit Mendler on Moving from Disney Star to Startup Founder",
+        "description": "Former Disney Channel star Bridgit Mendler wants to transform one of the least sexy segments of the space industry: ground stations. In this fireside, we’ll learn more about how Northwood Space will build out a data highway between Earth and orbit.",
+        "date": "October 28th",
+        "time": "10:35AM – 11:00AM",
+        "room": "Industry Stage- Space",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "consumer-social-network-effects-with-vently",
+        "title": "Consumer Social Network Effects with Vently",
+        "description": "This session will highlight the network effects driving consumer social platforms. After scaling Fizz and Nearby to 14 million users, a key insight emerged: communities are using a fragmented stack of tools—WhatsApp for communication, Partiful for event notifications, Venmo for payments, and Instagram for updates. Vently solves this by being the all-in-one platform that unifies these functions. It enables communities to engage, grow, and monetize in a single space, creating seamless experiences for both hosts and participants. Now, Vently is raising capital to scale these efforts and redefine how communities manage and engage. Don’t miss this opportunity to explore the future of consumer social networks and the potential of Vently to redefine social commerce.",
+        "date": "October 28th",
+        "time": "10:50AM – 11:20AM",
+        "room": "Roundtable 1",
+        "session_type": "Marketing",
+        "speakers": []
+      },
+      {
+        "id": "successfully-raising-your-seed-or-series-a-in-2024",
+        "title": "Successfully Raising Your Seed or Series A in 2024",
+        "description": "In today’s fundraising environment, securing seed or Series A funding requires a solid strategy, a compelling pitch, and a deep understanding of current market dynamics. This session from two former founders turned VCs will provide startup founders with actionable insights on what investors are looking for in 2024, from market fit to financial metrics, and guide you toward raising capital successfully.",
+        "date": "October 28th",
+        "time": "10:50AM – 11:20AM",
+        "room": "Roundtable 2",
+        "session_type": "Fundraising",
+        "speakers": []
+      },
+      {
+        "id": "leverage-data-standards-to-accelerate-your-startup",
+        "title": "Leverage Data Standards to Accelerate Your Startup",
+        "description": "What is big deal with standards like FHIR? Why should I care when I am trying so hard to build an innovative solution and look for early customers? What would investors think? Does it allow my competitors to copy my offering easily? These are important questions for the healthcare startups. InterSystems have been supporting global data standards for decades. We will share our experience to help you answer these questions and leverage the standards to your advantage, not just technically, but also sales and marketing.",
+        "date": "October 28th",
+        "time": "10:50AM – 11:20AM",
+        "room": "Roundtable 3",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "cislunar-the-next-frontier",
+        "title": "Cislunar: The Next Frontier",
+        "description": "Cislunar space – the region from Earth out to the Moon – is quickly becoming the next frontier for commercial space activity and a gateway for future space exploration. This panel will explore how the convergence of cutting-edge technology, innovative business models, and strategic partnerships is turning bold visions for the Moon – from space stations to sustainable lunar infrastructure – into reality. Industry leaders will discuss the opportunities and challenges of building a thriving lunar ecosystem and how the commercial sector is positioning itself at the heart of this new era of exploration.",
+        "date": "October 28th",
+        "time": "11:00AM – 11:20AM",
+        "room": "Industry Stage- Space",
+        "session_type": null,
+        "speakers": []
+      },
+      {
+        "id": "why-ai-regulation-is-every-startups-business",
+        "title": "Why AI Regulation is Every Startup's Business",
+        "description": "Andreessen Horowitz’s Martin Casado has lived the experience that every founder dreams of. He invented a new technology that radically altered the way computer networks are built and sold his startup for $1.26 billion when it was barely out of stealth (the second startup he sold). He’s since gone on to have an influential career as a VC at a16z, leading its infrastructure investment practice. He’s now sounding the alarm on AI regulation saying that startups, in particular, need to get involved.",
+        "date": "October 28th",
+        "time": "11:10AM – 11:40AM",
+        "room": "Builders Stage",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "riding-the-wave-the-future-of-space-investing",
+        "title": "Riding the Wave: The Future of Space Investing",
+        "description": "Private investments in commercial space companies has exploded over the past few years, but investor appetite has been tempered more recently by higher interest rates, turbulent space stock performance and geopolitical uncertainties. In this talk, we’ll discuss the future of space tech investing, which areas are oversaturated or undervalued, and whether this year will be make-it-or-break-it for space startups.",
+        "date": "October 28th",
+        "time": "11:20AM – 11:50AM",
+        "room": "Industry Stage- Space",
+        "session_type": "Fundraising",
+        "speakers": []
+      },
+      {
+        "id": "navigating-the-funding-landscape-for-women",
+        "title": "Navigating the Funding Landscape for Women",
+        "description": "Join us for an exciting panel discussion featuring three leading females in Tech from Founders Institute, Women Founders Bay and How Women Invest. This session will provide you with essential insights into the funding world, focusing on the latest trends, what investors look for, and effective strategies for women founders to stand out.",
+        "date": "October 28th",
+        "time": "11:30AM – 12:20PM",
+        "room": "Breakout Stage 2",
+        "session_type": "Fundraising",
+        "speakers": []
+      },
+      {
+        "id": "berkeley-connect-experience-the-worlds-1-startup-ecosystem",
+        "title": "Berkeley Connect: Experience the World’s #1 Startup Ecosystem",
+        "description": "Join us for an exclusive opportunity to engage with the innovative minds behind UC Berkeley’s top-ranked startup ecosystem. Recently named #1 by PitchBook for producing the most venture-backed companies and female founders, UC Berkeley is shaping the future of entrepreneurship. At this interactive Roundtable, visionary students from the Sutardja Center for Entrepreneurship & Technology (SCET) will showcase their cutting-edge ventures in rapid demo pitches. Explore the Berkeley Method of Entrepreneurship (BMoE), SCET’s unique, journey-based approach to fostering entrepreneurial success, and discover the ‘secret sauce’ that propels Berkeley’s entrepreneurial leaders to the forefront of innovation.",
+        "date": "October 28th",
+        "time": "11:40AM – 12:10PM",
+        "room": "Roundtable 1",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "unlocking-human-intelligence-via-events",
+        "title": "Unlocking Human Intelligence via Events",
+        "description": "In a world dominated by digital interactions, in-person events are key to unlocking human intelligence. This session explores how face-to-face connections build trust, capture attention, and influence behavior, highlighting the growing role of events in driving meaningful engagement.",
+        "date": "October 28th",
+        "time": "11:40AM – 12:10PM",
+        "room": "Roundtable 2",
+        "session_type": "Marketing",
+        "speakers": []
+      },
+      {
+        "id": "creating-inclusive-hiring-practices-in-fast-growing-companies",
+        "title": "Creating Inclusive Hiring Practices in Fast-Growing Companies",
+        "description": "In the fast-paced and dynamic tech industry, establishing inclusive hiring practices is essential for fostering innovation, enhancing team performance, and reflecting the diverse user base. This roundtable discussion will delve into strategies for attracting diverse talent, methods to remove bias from the recruitment process, and the role of technology in inclusive hiring.",
+        "date": "October 28th",
+        "time": "11:40AM – 12:10PM",
+        "room": "Roundtable 3",
+        "session_type": "Inclusion",
+        "speakers": []
+      },
+      {
+        "id": "how-to-launch-a-new-product-against-entrenched-incumbents",
+        "title": "How to Launch a New Product Against Entrenched Incumbents",
+        "description": "Founders seldom have the luxury of entering a completely empty market, but what happens when the incumbents are unusually entrenched? What does it take to start a company in an industry dominated by big players and technologies that have barely changed in recent years? Hear from two founders and an investor about the trials of taking on multinational conglomerates while building hardware and preparing for scale.",
+        "date": "October 28th",
+        "time": "11:40AM – 12:20PM",
+        "room": "Builders Stage",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "finding-the-consensus-of-crypto-vc",
+        "title": "Finding the Consensus of Crypto VC",
+        "description": "In the crypto space, it’s time to scale. All signs point toward a period of growth with high market prices, a more favorable regulatory landscape and a large ecosystem of scaling solutions that work. So let’s talk with investors who have backed some of the most influential protocols, exchanges and decentralized apps. What’s the next big thing and what has been the biggest surprise in their investment portfolio?",
+        "date": "October 28th",
+        "time": "1:25PM – 1:55PM",
+        "room": "Industry Stage- Fintech",
+        "session_type": "Crypto",
+        "speakers": []
+      },
+      {
+        "id": "shoppertainment-2024-the-future-of-consumer-and-commerce",
+        "title": "Shoppertainment 2024: The Future of Consumer and Commerce",
+        "description": "Uncover new insights that decode consumer behaviour. What this means for businesses & how you can thrive in this USD 1 Trillion Shoppertainment space?",
+        "date": "October 28th",
+        "time": "1:00PM – 1:30PM",
+        "room": "Roundtable 1",
+        "session_type": "Marketing",
+        "speakers": []
+      },
+      {
+        "id": "winning-at-startup-pr-without-paying-for-an-agency-with-ex-techc",
+        "title": "Winning at Startup PR Without Paying for an Agency, with ex-TechCrunch editor Josh Constine (encore)",
+        "description": "Sick of emailing reporters with no response and don’t want to cough up $15K per month for a PR agency? Lesson One: It’s about what audiences want to hear, not what you want to say. With the right mix of concise storytelling and data-driven content, you can learn to pitch press by yourself. In this roundtable session led by former TechCrunch editor-at-large turned VC Josh Constine, you’ll get the playbook for how to teach readers something while you boost your fundraising, recruiting, and sales. Ask your biggest questions about how PR works, and hear what red flags are getting your pitches deleted.",
+        "date": "October 28th",
+        "time": "1:00PM – 1:30PM",
+        "room": "Roundtable 2",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "ai-outlook-where-vcs-are-placing-their-bets-in-ai-today-and-wher",
+        "title": "AI Outlook: Where VCs are Placing their Bets in AI today – and Where we go Next",
+        "description": "After more than a year of frenzied investment into AI, investors are recalibrating. Instead of throwing money at any startup that claims to be AI, VCs are tightening their belts. Hear from a leading early-stage AI investor about what VCs are looking for in AI startups today. Find out why applied AI – “putting AI to work – is the next frontier in investment, with VCs looking for companies that can prove their technology can scale to disrupt established industries such as manufacturing, retail, healthcare, and financial services. Walk away with practical tips to get your AI startup funded!",
+        "date": "October 28th",
+        "time": "1:00PM – 1:30PM",
+        "room": "Roundtable 3",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "pavilion-pitch-japan",
+        "title": "Pavilion Pitch Session- Japan",
+        "description": "Please join us at the Pitch Showcase Stage in the Expo Hall for these rapid fire pitches. This session will feature companies participating in the Japan Pavilion, sponsored by JETRO (Japan External Trade Organization)",
+        "date": "October 28th",
+        "time": "1:00PM – 1:30PM",
+        "room": "Pitch Showcase Stage",
+        "session_type": "Pitches",
+        "speakers": []
+      },
+      {
+        "id": "vinod-khosla-looks-into-the-past-to-see-the-future-of-ai",
+        "title": "Vinod Khosla Looks into the Past to See the Future of AI",
+        "description": "Join legendary investor Vinod Khosla for an electrifying fireside chat on the future of AI. Khosla will share his perspective on the groundbreaking opportunities AI unlocks — along with the seismic disruptions it will unleash. Given Khosla’s penchant for straight talk and his proven ability over the years to see around corners, you won’t want to miss this conversation.",
+        "date": "October 28th",
+        "time": "1:30PM – 2:00PM",
+        "room": "Disrupt Stage",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "how-ai-is-supercharging-tools-for-knowledge-workers",
+        "title": "How AI is Supercharging Tools for Knowledge Workers",
+        "description": "Advancements in AI are enabling new tooling that will 10x the productivity of knowledge workers by reducing monotonous, repetitive tasks. These advances have also unlocked opportunities for more creativity and experimentation. This panel explores the latest in professional services tooling and explores how companies can maximize performance and productivity. We will also explore the future of tooling for knowledge workers and how emerging breakthroughs might be applied. Let’s explore the future of work.",
+        "date": "October 28th",
+        "time": "1:30PM – 2:20PM",
+        "room": "Breakout Stage 1",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "powering-ahead-the-future-of-energy-infrastructure",
+        "title": "Powering Ahead: The Future of Energy & Infrastructure",
+        "description": "Join us for ‘Powering Ahead: The Future of Energy & Infrastructure’ featuring Troy Helming, a visionary leader in renewable energy and successful entrepreneur. In our breakout session, we’ll dive into the latest innovations shaping the energy sector, including advancements in renewable technologies, grid modernization, and sustainable infrastructure development. We’ll also share best practices for building a startup, offering practical advice drawn from Troy’s experiences. Attendees will gain insights into how these trends are transforming the way we produce, distribute, and consume energy, and how to capitalize on emerging opportunities. Don’t miss this opportunity to learn from an industry expert about the challenges and prospects that lie ahead in the quest for a cleaner, more efficient energy future.",
+        "date": "October 28th",
+        "time": "1:30PM – 2:20PM",
+        "room": "Breakout Stage 2",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "startup-battlefield-200-healthtech-biotech-pitches",
+        "title": "Startup Battlefield 200 Healthtech + Biotech Pitches",
+        "description": "Please join us at the Pitch Showcase Stage in the Expo Hall for these rapid fire pitches. This session will feature the Healthtech + Biotech companies from this year’s Startup Battlefield 200 cohort.",
+        "date": "October 28th",
+        "time": "1:30PM – 3:30PM",
+        "room": "Pitch Showcase Stage",
+        "session_type": "Pitches",
+        "speakers": []
+      },
+      {
+        "id": "consumer-ai-startups",
+        "title": "Consumer AI Startups",
+        "description": "Maven Ventures general partner Sara Deshpande has been investing in the consumer tech space for a decade. Join me to discuss the current consumer landscape, novel startup ideas, fundraising, and why it’s a great time to be building in Consumer AI.",
+        "date": "October 28th",
+        "time": "1:50PM – 2:20PM",
+        "room": "Roundtable 1",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "next-gen-medicine-ai-simulation-generating-new-data-to-accelerat",
+        "title": "Next-Gen Medicine: AI Simulation Generating New Data to Accelerate Drug Discovery",
+        "description": "AI models require huge amounts of data to complete a given task – but what if this data doesn’t exist? Marianna Bonanome, PhD Head of Education Outreach, SandboxAQ and Breyer Capital’s Jim Breyer will discuss how AI & quantum-powered simulation generates the missing data AI models need to accelerate drug discovery – leading to breakthroughs for challenging conditions like Alzheimer’s, while reducing the time, cost and risk of developing new drugs. Marianna and Jim will showcase how UCSF, Riboscience and other biopharma researchers are using simulation to turn molecules into medicine, and recent findings showing how simulation data is performing beyond our wildest expectations.",
+        "date": "October 28th",
+        "time": "1:50PM – 2:20PM",
+        "room": "Roundtable 2",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "creating-inclusive-hiring-practices-in-fast-growing-companies-en",
+        "title": "Creating Inclusive Hiring Practices in Fast-Growing Companies (encore)",
+        "description": "In the fast-paced and dynamic tech industry, establishing inclusive hiring practices is essential for fostering innovation, enhancing team performance, and reflecting the diverse user base. This roundtable discussion will delve into strategies for attracting diverse talent, methods to remove bias from the recruitment process, and the role of technology in inclusive hiring.",
+        "date": "October 28th",
+        "time": "1:50PM – 2:20PM",
+        "room": "Roundtable 3",
+        "session_type": "Inclusion",
+        "speakers": []
+      },
+      {
+        "id": "how-these-neobanks-grew-during-challenging-times",
+        "title": "How These Neobanks Grew During Challenging Times",
+        "description": "While there have been a number of digital bank shutdowns in recent years, there are some players that are not only doing well, but thriving. Neobanks Dave and Varo Bank each have millions of customers, growing despite a challenging macroeconomic environment and an increasing number of competitors. What are these companies doing to help them grow during challenging times? And what should we expect from them in the future? We’ll talk to execs to find out.",
+        "date": "October 28th",
+        "time": "1:55PM – 2:25PM",
+        "room": "Industry Stage- Fintech",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "beyond-the-hype-building-ai-that-means-business",
+        "title": "Beyond the Hype: Building AI that Means Business",
+        "description": "Join Iliana Quiñonez, Director of North America Startups Customer Engineering, in a thought-provoking conversation with a visionary founder navigating the frontier of AI. Together, they’ll explore the pivotal growth milestones that define successful startups. This insightful discussion will uncover the transformative potential and power of AI, offering valuable insights for leaders looking to stay at the forefront of the curve.",
+        "date": "October 28th",
+        "time": "2:00PM – 2:20PM",
+        "room": "Builders Stage",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "the-startup-battlefield-2",
+        "title": "The Startup Battlefield – Session 2",
+        "description": "TechCrunch’s iconic startup competition is back, as entrepreneurs from around the world pitch expert judges and vie for the Startup Battlefield Cup and $100,000.",
+        "date": "October 28th",
+        "time": "2:00PM – 3:15PM",
+        "room": "Disrupt Stage",
+        "session_type": "Startup Battlefield",
+        "speakers": []
+      },
+      {
+        "id": "family-offices-want-startup-exposure-but-what-are-they-looking-f",
+        "title": "Family Offices Want Startup Exposure, but What Are They Looking For?",
+        "description": "Family offices have gotten increasingly active in investing in startups both directly and through their VC investors. But what are they looking for? While no two family offices are the same, this session will dig into family office investing trends and where they have been spending time in the startup ecosystem. We’ll also dive into what kind of risk these investors are looking to take on and what makes a startup a good fit for this category of backer.",
+        "date": "October 28th",
+        "time": "2:20PM – 2:50PM",
+        "room": "Builders Stage",
+        "session_type": "Fundraising",
+        "speakers": []
+      },
+      {
+        "id": "with-tiptop-postmates-founder-bastian-lehmann-is-hungry-for-more",
+        "title": "With Tiptop, Postmates Founder Bastian Lehmann is Hungry for More",
+        "description": "After selling Postmates to Uber for $2.65 billion, Bastian Lehmann is back with Tiptop, a startup that wants to unlock the monetary value of things you already own. Tiptop is building an instant trade-in program that is available at checkout. Retailers can integrate Tiptop as a payment option and Tiptop handles everything from quotes to payouts and fraud prevention. After revolutionizing the modern delivery economy and the food industry, can Bastian Lehmann change how we buy (and sell) things?",
+        "date": "October 28th",
+        "time": "2:25PM – 2:50PM",
+        "room": "Industry Stage- Fintech",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "ipo-or-bust-tactical-approaches-for-late-stage-success",
+        "title": "IPO or Bust? Tactical Approaches for Late-Stage Success",
+        "description": "With rising interest rates and stricter regulatory scrutiny on acquisitions, many growth and late stage companies that once secured billions in funding are struggling to achieve a successful outcome. In this session, two experienced investors will debate the state of late-stage venture, what they’re seeing in terms of deal activity, if this market is actually coming back as significantly as some are reporting, and where they see the landscape headed in 2025. As part of this, they will dig into what’s going on with IPO markets, whether/when they will open back up, and how this is impacting exit strategies for founders.",
+        "date": "October 28th",
+        "time": "2:30PM – 3:20PM",
+        "room": "Breakout Stage 2",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "berkeley-connect-experience-the-worlds-1-startup-ecosystem-encor",
+        "title": "Berkeley Connect: Experience the World’s #1 Startup Ecosystem (encore)",
+        "description": "Join us for an exclusive opportunity to engage with the innovative minds behind UC Berkeley’s top-ranked startup ecosystem. Recently named #1 by PitchBook for producing the most venture-backed companies and female founders, UC Berkeley is shaping the future of entrepreneurship. At this interactive Roundtable, visionary students from the Sutardja Center for Entrepreneurship & Technology (SCET) will showcase their cutting-edge ventures in rapid demo pitches. Explore the Berkeley Method of Entrepreneurship (BMoE), SCET’s unique, journey-based approach to fostering entrepreneurial success, and discover the ‘secret sauce’ that propels Berkeley’s entrepreneurial leaders to the forefront of innovation.",
+        "date": "October 28th",
+        "time": "2:40PM – 3:10PM",
+        "room": "Roundtable 1",
+        "session_type": null,
+        "speakers": []
+      },
+      {
+        "id": "unlocking-human-intelligence-via-events-encore",
+        "title": "Unlocking Human Intelligence via Events (encore)",
+        "description": "In a world dominated by digital interactions, in-person events are key to unlocking human intelligence. This session explores how face-to-face connections build trust, capture attention, and influence behavior, highlighting the growing role of events in driving meaningful engagement.",
+        "date": "October 28th",
+        "time": "2:40PM – 3:10PM",
+        "room": "Roundtable 2",
+        "session_type": "Marketing",
+        "speakers": []
+      },
+      {
+        "id": "ai-outlook-where-vcs-are-placing-their-bets-in-ai-today-and-wher",
+        "title": "AI Outlook: Where VCs are Placing Their Bets in AI Today – and Where We Go Next (encore)",
+        "description": "After more than a year of frenzied investment into AI, investors are recalibrating. Instead of throwing money at any startup that claims to be AI, VCs are tightening their belts. Hear from a leading early-stage AI investor about what VCs are looking for in AI startups today. Find out why applied AI – “putting AI to work – is the next frontier in investment, with VCs looking for companies that can prove their technology can scale to disrupt established industries such as manufacturing, retail, healthcare, and financial services. Walk away with practical tips to get your AI startup funded!",
+        "date": "October 28th",
+        "time": "2:40PM – 3:10PM",
+        "room": "Roundtable 3",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "future-of-work",
+        "title": "Future of Work",
+        "description": "Software is eating the world, and companies are hiring global talent more frequently than ever. They want to be able to hire talent in foreign countries and retain employees who want to move abroad. That’s why a new wave of global HR startups are helping companies hire people all around the world with local contracts. But can they replace local subsidiaries?",
+        "date": "October 28th",
+        "time": "2:50PM – 3:20PM",
+        "room": "Industry Stage- Fintech",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "the-boom-in-national-interest-startups",
+        "title": "The Boom in National Interest Startups",
+        "description": "One fascinating trend these days is an area that has a number of names: national-interest startups, American Dynamism, New World. These startups are creating technologies in areas that are meant to be built, used, and create jobs in the country of origin, like the US. They cover everything from aerospace and critical infrastructure to government, manufacturing and national safety. This panel will dig into how far — and how fast — Silicon Valley can rebuild a nation’s foundations.",
+        "date": "October 28th",
+        "time": "3:10PM – 3:50PM",
+        "room": "Builders Stage",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "consumer-culture-and-creators-with-erin-and-sara-foster",
+        "title": "Consumer, Culture, and Creators with Erin and Sara Foster",
+        "description": "Two of the industry’s most famous sisters sit down alongside business partner Phil Schwarz to talk about consumer investing, culture curation, and what it means to be a creator in the modern age.",
+        "date": "October 28th",
+        "time": "3:15PM – 3:45PM",
+        "room": "Disrupt Stage",
+        "session_type": "Fundraising",
+        "speakers": []
+      },
+      {
+        "id": "baas-in-a-post-synapse-meltdown-world",
+        "title": "BaaS in a Post-Synapse Meltdown World",
+        "description": "The bankruptcy of banking-as-a-service (BaaS) fintech Synapse shows just how treacherous things are for the often-interdependent fintech world when one key player hits trouble. Synapse’s problems have hurt and taken down a number of other startups and affected millions of consumers all over the country. Many believe regulatory clarity is needed moving forward. One analyst says the case of Synapse underscores the need for fintech companies to maintain high operational and compliance standards. This panel looks at the potential impacts the Synapse collapse will have on the future of BaaS.",
+        "date": "October 28th",
+        "time": "3:20PM – 3:50PM",
+        "room": "Industry Stage- Fintech",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "shoppertainment-2024-the-future-of-consumer-and-commerce-encore",
+        "title": "Shoppertainment 2024: The Future of Consumer and Commerce (encore)",
+        "description": "Uncover new insights that decode consumer behaviour. What this means for businesses & how you can thrive in this USD 1 Trillion Shoppertainment space?",
+        "date": "October 28th",
+        "time": "3:30PM – 4:00PM",
+        "room": "Roundtable 1",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "next-gen-medicine-ai-simulation-generating-new-data-to-accelerat",
+        "title": "Next-Gen Medicine: AI Simulation Generating New Data to Accelerate Drug Discovery (encore)",
+        "description": "AI models require huge amounts of data to complete a given task – but what if this data doesn’t exist? Marianna Bonanome, PhD Head of Education Outreach, SandboxAQ and Breyer Capital’s Jim Breyer will discuss how AI & quantum-powered simulation generates the missing data AI models need to accelerate drug discovery – leading to breakthroughs for challenging conditions like Alzheimer’s, while reducing the time, cost and risk of developing new drugs. Marianna and Jim will showcase how UCSF, Riboscience and other biopharma researchers are using simulation to turn molecules into medicine, and recent findings showing how simulation data is performing beyond our wildest expectations.",
+        "date": "October 28th",
+        "time": "3:30PM – 4:00PM",
+        "room": "Roundtable 2",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "generative-ai-beyond-the-hype-building-real-world-applications",
+        "title": "Generative AI: Beyond the Hype – Building Real-World Applications",
+        "description": "Join this interactive session to explore the practical applications of generative AI. We’ll break down the different types of generative models, discuss their strengths and limitations, and showcase inspiring use cases across various industries.",
+        "date": "October 28th",
+        "time": "3:30PM – 4:20PM",
+        "room": "Breakout Stage 1",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "consumer-ai-startups-encore",
+        "title": "Consumer AI Startups (encore)",
+        "description": "Maven Ventures general partner Sara Deshpande has been investing in the consumer tech space for a decade. Join me to discuss the current consumer landscape, novel startup ideas, fundraising, and why it’s a great time to be building in Consumer AI.",
+        "date": "October 28th",
+        "time": "3:30PM – 4:00PM",
+        "room": "Roundtable 3",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "pavilion-pitch-2-korea",
+        "title": "Pavilion Pitch Session 2 – Korea",
+        "description": "Please join us at the Pitch Showcase Stage in the Expo Hall for these rapid fire pitches. This session will feature companies participating in the Korea Pavilion, sponsored by KOTRA (Korea Trade-Investment Promotion Agency)",
+        "date": "October 28th",
+        "time": "3:30PM – 4:00PM",
+        "room": "Pitch Showcase Stage",
+        "session_type": "Pitches",
+        "speakers": []
+      },
+      {
+        "id": "visa-everywhere-initiative-the-ultimate-fintech-pitch-competitio",
+        "title": "Visa Everywhere Initiative: The Ultimate Fintech Pitch Competition",
+        "description": "Fintech startups inspire—Visa enables. Join us at the Visa Emerging Innovators (VEI) program, where we celebrate the next generation of fintech pioneers. This year, we are thrilled to announce that we are doubling the prize to an incredible $100K! Visa has carefully selected five visionary startups from around the world, each poised to pitch their groundbreaking solutions to a distinguished panel of fintech industry leaders. Don’t miss this unique opportunity to witness the future of payments in action and discover how you can be part of the fintech revolution.",
+        "date": "October 28th",
+        "time": "3:50PM – 5:00PM",
+        "room": "Industry Stage- Fintech",
+        "session_type": "Pitches",
+        "speakers": []
+      },
+      {
+        "id": "pavilion-pitch-ukraine",
+        "title": "Pavilion Pitch Session – Ukraine",
+        "description": "Please join us at the Pitch Showcase Stage in the Expo Hall for these rapid fire pitches. This session will feature companies participating in the Ukraine Pavilion, sponsored by USAID (United States Agency for International Development)",
+        "date": "October 28th",
+        "time": "4:00PM – 4:30PM",
+        "room": "Pitch Showcase Stage",
+        "session_type": "Pitches",
+        "speakers": []
+      },
+      {
+        "id": "disrupt-space-and-fintech-meetup",
+        "title": "Disrupt Space and Fintech Meetup",
+        "description": "Network with fellow space and fintech professionals and attendees at a happy hour following the conclusion of Disrupt Day 1. Present your TC Disrupt badge at check-in for entry. Must be 21+ to attend. Check the TC Disrupt app agenda for venue information.",
+        "date": "October 28th",
+        "time": "5:00PM – 7:00PM",
+        "room": "Off-Site",
+        "session_type": "After Hours Event",
+        "speakers": []
+      }
+    ]
+  },
+  {
+    "date": "October 29th",
+    "sessions": [
+      {
+        "id": "registration-hours",
+        "title": "Registration Hours",
+        "description": "Stop by the registration desk to pick up your badge or help desk for assistance.",
+        "date": "October 29th",
+        "time": "8:00AM – 5:00PM",
+        "room": "Registration",
+        "session_type": null,
+        "speakers": []
+      },
+      {
+        "id": "women-of-disrupt-breakfast",
+        "title": "Women of Disrupt Breakfast",
+        "description": "Join us for an inspiring and empowering morning where we will host a dynamic panel discussion featuring female founders who have mastered the art of leadership. This event is open to all female attendees and those who identify as female. The event is first come, first serve so arrive early!",
+        "date": "October 29th",
+        "time": "8:00AM – 10:00AM",
+        "room": "Deal Flow Cafe",
+        "session_type": "Reception",
+        "speakers": []
+      },
+      {
+        "id": "equity-live",
+        "title": "Equity Live",
+        "description": "TechCrunch Editors Kirsten Korosec and Devin Coldewey are joined by writer Margaux MacColl for a live episode of Equity, TechCrunch’s flagship podcast diving deep into the business of startups, tech and venture capital.",
+        "date": "October 29th",
+        "time": "9:00AM – 9:30AM",
+        "room": "Builders Stage",
+        "session_type": null,
+        "speakers": []
+      },
+      {
+        "id": "networking-powered-by-braindate",
+        "title": "Networking Powered By Braindate",
+        "description": "Schedule a 1:1 or group Braindate conversation by accessing the Braindate platform via our event app.",
+        "date": "October 29th",
+        "time": "9:00AM – 5:00PM",
+        "room": "Networking Lounge",
+        "session_type": null,
+        "speakers": []
+      },
+      {
+        "id": "how-startups-can-save-the-world",
+        "title": "How Startups Can Save the World",
+        "description": "Startup work and venture capital investing are usually judged through the lens of their financial results. The bigger a startup gets, the more it’s worth. But some upstart tech companies are also working on making the world better, while making money. So we want to know how far the ‘doing good’ can go while not giving up on the critical ‘making money’ side of building tech companies.",
+        "date": "October 29th",
+        "time": "9:30AM – 10:10AM",
+        "room": "Builders Stage",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "the-future-of-go-to-market-in-the-ai-era",
+        "title": "The Future of Go To Market in the AI Era",
+        "description": "From auto-generated outbound messages to AI-written blog posts, AI is fundamentally changing the way that companies go to market. Come discuss the tension between AI-powered automation and human creativity with the founders building these products and the leading practitioners who use them.",
+        "date": "October 29th",
+        "time": "9:30AM – 10:20AM",
+        "room": "Breakout Stage 1",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "is-your-ai-deployment-an-advantage-or-an-embarrassment-heres-how",
+        "title": "Is Your AI Deployment an Advantage or an Embarrassment? Here’s How to Know",
+        "description": "Rushed AI deployments can translate to embarrassing incidents, reputational damage, and financial loss. Brands like Adobe, Snap, and Anthropic have joined a growing list of companies embracing AI red teaming to deploy AI responsibly and find emerging threats before bad actors. HackerOne will share tales from the front lines of AI safety and security, so you know how to avoid AI embarrassments — from the circumvention of AI guardrails to harmful content generation. You’ll learn how top companies use AI red teaming and actionable ways to reduce AI risk that extend your AI advantage.",
+        "date": "October 29th",
+        "time": "9:30AM – 10:20AM",
+        "room": "Breakout Stage 2",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "startup-battlefield-200-security-privacy-social-networking-pitch",
+        "title": "Startup Battlefield 200 Security, Privacy + Social Networking Pitches",
+        "description": "Please join us at the Pitch Showcase Stage in the Expo Hall for these rapid fire pitches. This session will feature the Security, Privacy + Social Networking companies from this year’s Startup Battlefield 200 cohort.",
+        "date": "October 29th",
+        "time": "9:30AM – 11:00AM",
+        "room": "Pitch Showcase Stage",
+        "session_type": "Pitches",
+        "speakers": []
+      },
+      {
+        "id": "how-to-build-run-your-board-encore",
+        "title": "How to Build & Run Your Board (encore)",
+        "description": "Join Justworks’ CEO, Mike Seckler, for a discussion on how to build and run a high-performing board of directors. For many founders, board meetings can feel like a massive suck of time, focus, and resources. What if your board gave you energy instead? As a founder, you have the opportunity to set a foundation and approach that leads to more productive board conversations that make you and your company better. Participants will leave this session with multiple ideas for building a high-performing board from Mike’s experience as a two-time founder, board member, and from his own journey at Justworks (early investor/board member to CEO).",
+        "date": "October 29th",
+        "time": "10:00AM – 10:30AM",
+        "room": "Roundtable 1",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "scaling-startups-with-strong-leadership-developing-a-founding-te",
+        "title": "Scaling Startups with Strong Leadership – Developing a Founding Team that Thrives",
+        "description": "As the startup ecosystem grows increasingly competitive with AI democratizing startup creation and increased investor due diligence, the need for strong leadership extends beyond the CEO to the entire founding team. This roundtable explores the critical role that leadership development plays in scaling successful startups. Learn from seasoned investors and entrepreneurs who have cultivated the right leadership qualities across their teams, creating a foundation for sustained growth and innovation. We’ll discuss the strategies and resources available to help a founding team develop the skills needed to navigate challenges, inspire their teams, and drive long-term success.",
+        "date": "October 29th",
+        "time": "10:00AM – 10:30AM",
+        "room": "Roundtable 2",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "ai-infra-devops-and-the-backend-tooling-stack-of-the-next-genera",
+        "title": "AI Infra, DevOps and the Backend Tooling Stack of the Next Generation of B2B Software Winners",
+        "description": "This roundtable explores investment strategies in AI infrastructure software, DevOps, and B2B infrastructure. As AI continues to reshape industries, the demand for robust, scalable infrastructure has never been greater. Participants will discuss emerging trends in cloud computing, containerization, and edge computing tailored for AI workloads. The conversation will delve into the challenges of developing and deploying AI models at scale, examining how DevOps practices are evolving to meet these demands. Additionally, the roundtable will address the growing market for B2B infrastructure software that enables AI integration across various sectors. By analyzing current gaps in the ecosystem and projecting future needs, this discussion aims to identify key areas for strategic investment that will shape the next generation of AI infrastructure.",
+        "date": "October 29th",
+        "time": "10:00AM – 10:30AM",
+        "room": "Roundtable 3",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "so-youre-going-to-get-hacked-advice-from-the-front-lines",
+        "title": "So, You're Going to Get Hacked: Advice from the Front-lines",
+        "description": "Cyberattacks are inevitable, but disasters are avoidable. Hear from experienced security defenders who have built and grown security teams, and what you need to know to get ahead of cyberattackers before they strike.",
+        "date": "October 29th",
+        "time": "10:05AM – 10:35AM",
+        "room": "Industry Stage- SaaS",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "the-startup-battlefield-3",
+        "title": "The Startup Battlefield – Session 3",
+        "description": "TechCrunch’s iconic startup competition is back, as entrepreneurs from around the world pitch expert judges and vie for the Startup Battlefield Cup and $100,000.",
+        "date": "October 29th",
+        "time": "10:05AM – 11:15AM",
+        "room": "Disrupt Stage",
+        "session_type": "Startup Battlefield",
+        "speakers": []
+      },
+      {
+        "id": "how-to-build-a-company-while-protecting-your-mental-health",
+        "title": "How to Build a Company While Protecting your Mental Health",
+        "description": "Everyone knows that it is stressful to build a company. And it’s just as commonly known that endless chronic work can lead to burnout. So, why don’t we talk more about founder mental health? Now that our culture is more comfortable discussing mental health in general, it’s time we brought the topic to Disrupt for a thorough interrogation.",
+        "date": "October 29th",
+        "time": "10:30AM – 11:00AM",
+        "room": "Builders Stage",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "secrets-to-actually-being-good-at-startup-pr-in-2024",
+        "title": "Secrets to Actually Being Good at Startup PR in 2024",
+        "description": "The communications and PR landscape has dramatically shifted in recent years: new mediums (Substack, podcasts) have spiked in influence and popularity, fueling new strategies (“going direct”) for shaping and amplifying public perceptions — all while an increasingly critical media landscape continues to hold all types of industry stakeholders accountable. How can early and growing companies responsibly navigate these changes *and* be successful in building an inspiring brand? This roundtable will dissect the growing breadth and importance of different comms functions: the under-appreciated, consequential nature of internal comms, the increasingly indispensable need for owned channels, the pros and cons of political takes amidst an election year, and how to actually get meaningful press coverage for a company. The tech communications industry has arguably never been more dynamic.",
+        "date": "October 29th",
+        "time": "10:30AM – 11:20AM",
+        "room": "Breakout Stage 1",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "scaling-technical-startups-navigating-growth-positioning-and-com",
+        "title": "Scaling Technical Startups: Navigating Growth, Positioning, and Competitive Pressure",
+        "description": "It’s a challenging time to scale a technical or data-focused startup— competition for customers, fundraising, and top talent continues to increase. This session will break down unique, timely challenges for technical founders and teams, and provide actionable advice to thrive in this highly competitive market. Attendees will take away best practices in product development, open source vs. closed source strategies, and how to position and message effectively—especially in pre-revenue stages for investor appeal. Technical founders will learn how to navigate the complexities of fundraising, with a focus on raising Series A for data-driven businesses, and why scaling technical or infrastructure companies requires a different playbook compared to traditional SaaS startups.",
+        "date": "October 29th",
+        "time": "10:30AM – 11:20AM",
+        "room": "Breakout Stage 2",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "embracing-slacks-evolution-under-salesforce-and-vision-for-the-f",
+        "title": "Embracing Slack’s Evolution Under Salesforce and Vision for the Future",
+        "description": "Join us for a one-on-one chat with Slack CEO Denise Dresser, who is approaching her one year anniversary while leading her organization through a time of AI-driven change and continued questions about the return to office. During this session, learn how Slack is innovating with agents to empower teams to work smarter, faster, and more efficiently, and get a glimpse into Slack’s next chapter of innovation and growth in this new era of work.",
+        "date": "October 29th",
+        "time": "10:35AM – 11:00AM",
+        "room": "Industry Stage- SaaS",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "refining-pre-and-post-training-data-strategy-for-llm-success",
+        "title": "Refining Pre and Post-Training Data Strategy for LLM Success",
+        "description": "LLMs have revolutionized AI, but their success hinges on the quality and strategy of the data used.This roundtable dives deep into the critical role of data throughout the LLM lifecycle.Join us to explore best practices for:1. Pre-training: Learn how to curate diverse, high-quality datasets that fuel robust and unbiased LLMs.2. Post-training: Discover techniques like reinforcement learning and active learning to continually enhance LLM performance and address limitations.3. Ethical considerations: Navigate the complex landscape of data privacy, bias, and fairness in LLM development.Whether you’re building foundational models or leveraging LLMs for specific applications, this session offers insights to optimize your data strategy and unlock the full potential of these powerful AI tools.",
+        "date": "October 29th",
+        "time": "10:50AM – 11:20AM",
+        "room": "Roundtable 1",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "tackle-every-challenge-head-on-with-affiliate-marketing-encore",
+        "title": "Tackle Every Challenge Head On with Affiliate Marketing  (encore)",
+        "description": "Need to drive more brand awareness and traffic to your store? There’s an affiliate solution for that.Want to convert more shoppers into buyers? There’s an affiliate solution for that.Looking to encourage repeat business and referrals? There’s an affiliate solution for that.Learn how affiliate marketing has transformed into a gateway for novel advertising solutions and e-commerce technologies. We will discuss how this marketing channel is incredibly powerful, diverse, and a technology gateway for online brands to enhance their sales and marketing efforts.",
+        "date": "October 29th",
+        "time": "10:50AM – 11:20AM",
+        "room": "Roundtable 2",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "leverage-data-standards-to-accelerate-your-startup-encore",
+        "title": "Leverage Data Standards to Accelerate Your Startup (encore)",
+        "description": "What is big deal with standards like FHIR? Why should I care when I am trying so hard to build an innovative solution and look for early customers? What would investors think? Does it allow my competitors to copy my offering easily? These are important questions for the healthcare startups. InterSystems have been supporting global data standards for decades. We will share our experience to help you answer these questions and leverage the standards to your advantage, not just technically, but also sales and marketing.",
+        "date": "October 29th",
+        "time": "10:50AM – 11:20AM",
+        "room": "Roundtable 3",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "building-enterprise-ai-apps-with-multi-agent-rag-systems-mars",
+        "title": "Building Enterprise AI Apps with Multi-Agent RAG Systems (MARS)",
+        "description": "Join SingleStore to explore a live Retrieval-Augmented Generation (RAG) application that combines real-time streaming data with vast amounts of point-in-time data, achieving near-zero latency in AI interactions. We’ll discuss how Multi-Agent Retrieval-Augmented Generation Systems (MARS) can facilitate the development of effective real-time AI applications, utilizing AWS Bedrock and SingleStore. Gain valuable insights into the challenges and opportunities of building enterprise-grade AI, along with a real-life example of a customer support co-pilot that leverages real-time AI to enhance user experience. If you are a developer, architect, or business leader interested in implementing Enterprise AI applications using MARS architecture, don’t miss this session.",
+        "date": "October 29th",
+        "time": "11:00AM – 11:20AM",
+        "room": "Industry Stage- SaaS",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "how-to-hire-in-2025",
+        "title": "How to Hire in 2025",
+        "description": "Gone are the days when recruiters seemed more plentiful than leaves in the wind; employees in nearly every startup function are therefore facing a more conservative labor market. How can founders capitalize on their increased labor buying power, while also treating their staff with respect and retaining key talent? Founders, take note, this one is for you.",
+        "date": "October 29th",
+        "time": "11:00AM – 11:40AM",
+        "room": "Builders Stage",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "how-mary-barra-is-shaping-gms-tech-future",
+        "title": "How Mary Barra is Shaping GM’s Tech Future",
+        "description": "Over her decade-long tenure, Chairman and CEO Mary Barra has pushed to transform General Motors into a technological powerhouse — and one that will lead in electrification, software and autonomous driving though their self-driving subsidiary Cruise. We’ll take stock of her progress — including the unexpected speed bumps along the way — and dig into her plans for the future, including where GM is investing capital.",
+        "date": "October 29th",
+        "time": "11:15AM – 11:45AM",
+        "room": "Disrupt Stage",
+        "session_type": "Transportation",
+        "speakers": []
+      },
+      {
+        "id": "whats-next-in-open-source-as-a-business-model",
+        "title": "What's Next in Open Source as a Business Model?",
+        "description": "Open source has become the default business model for many tech startups. But the success of the movement hasn’t been without challenges as businesses now try to balance the ideals of open source with the realities of running a business in an ever-changing competitive environment. Join us to hear industry leaders discuss how they navigate these complexities and what the future holds for open source as a sustainable business model",
+        "date": "October 29th",
+        "time": "11:20AM – 11:50AM",
+        "room": "Industry Stage- SaaS",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "pavilion-pitch-belgium",
+        "title": "Pavilion Pitch Session – Belgium",
+        "description": "Please join us at the Pitch Showcase Stage in the Expo Hall for these rapid fire pitches. This session will feature companies participating in the Belgium Pavilion, sponsored by hub.brussels.",
+        "date": "October 29th",
+        "time": "11:30AM – 12:15PM",
+        "room": "Pitch Showcase Stage",
+        "session_type": "Pitches",
+        "speakers": []
+      },
+      {
+        "id": "the-art-of-the-ai-pitch-winning-over-investors-in-2025",
+        "title": "The Art of the AI Pitch: Winning Over Investors in 2025",
+        "description": "How do you capture investor attention when you’ve only got 2.5 minutes? Join Dropbox DocSend’s Alessandra Andrenacci as she dives into the evolving dynamics of AI startup pitches with top founders and VCs. Discover how AI is changing fundraising expectations and what startups need to command the right balance in their AI winning deck —and how the right storytelling can make or break your pitch. Backed by DocSend data and real-world insights, this session will unpack what investors are really looking for, and the pitfalls AI startups must avoid. Whether you’re refining your deck or crafting your first pitch, you’ll leave equipped to stand out in the fiercely competitive 2025 AI landscape.",
+        "date": "October 29th",
+        "time": "11:30AM – 12:20PM",
+        "room": "Breakout Stage 1",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "deep-tech-in-winter-how-to-win-investors-in-2024",
+        "title": "Deep Tech in Winter: How to Win Investors in 2024",
+        "description": "Venture’s deep chill has been extra frigid for deep tech startups due to their reputation for long timelines and big capital needs. But investors are still game for deep tech startups that are smart about balancing product scope and time to market. Vertical integration and industrial scale ups are out; selling innovation into existing supply chains, now that’s smart. SOSV General Partners Duncan Turner, Dr. Pae Wu, and Po Bronson help oversee the launch of about 75 deep tech startups a year and work with hundreds of deep tech co-investors. They will discuss what’s getting investors to “yes” for deep tech investments now, and take questions from the audience.",
+        "date": "October 29th",
+        "time": "11:30AM – 12:20PM",
+        "room": "Breakout Stage 2",
+        "session_type": "Fundraising",
+        "speakers": []
+      },
+      {
+        "id": "harnessing-the-power-of-gen-z-online-community-strategies-for-st",
+        "title": "Harnessing the Power of Gen Z: Online Community Strategies for Startups",
+        "description": "In today’s digital landscape, Gen Z holds unprecedented influence over market trends and online engagement. How can startups effectively connect with this savvy generation to drive growth and brand loyalty? Join us for an insightful roundtable led by the founder of Computer Science Girlies, a thriving online community that has successfully tapped into the Gen Z zeitgeist. We’ll explore proven strategies for building and leading online communities that resonate with Gen Z users.Discover how to leverage platforms like TikTok and Instagram to create authentic connections, foster active engagement, and expand your startup’s reach. Attendees will gain actionable insights into cultivating a loyal Gen Z user base, enhancing brand presence, and fueling sustainable growth through community-driven initiatives.",
+        "date": "October 29th",
+        "time": "11:40AM – 12:10PM",
+        "room": "Roundtable 1",
+        "session_type": "Marketing",
+        "speakers": []
+      },
+      {
+        "id": "maximizing-prospective-existing-investor-relationships",
+        "title": "Maximizing Prospective + Existing Investor Relationships",
+        "description": "This panel dives into the often-underutilized dynamics between founders and investors, debunking myths that can undermine these relationships. We’ll discuss how founders can filter the flood of advice, position themselves to best utilize board and investor resources and create partnerships that fuel long-term success. Leading the conversation is Brent Murri, partner at M13, who brings a sharp perspective on venture.",
+        "date": "October 29th",
+        "time": "11:40AM – 12:10PM",
+        "room": "Roundtable 2",
+        "session_type": "Fundraising",
+        "speakers": []
+      },
+      {
+        "id": "consumer-social-network-effects-with-vently-encore",
+        "title": "Consumer Social Network Effects with Vently (encore)",
+        "description": "This session will highlight the network effects driving consumer social platforms. After scaling Fizz and Nearby to 14 million users, a key insight emerged: communities are using a fragmented stack of tools—WhatsApp for communication, Partiful for event notifications, Venmo for payments, and Instagram for updates. Vently solves this by being the all-in-one platform that unifies these functions. It enables communities to engage, grow, and monetize in a single space, creating seamless experiences for both hosts and participants. Now, Vently is raising capital to scale these efforts and redefine how communities manage and engage. Don’t miss this opportunity to explore the future of consumer social networks and the potential of Vently to redefine social commerce.",
+        "date": "October 29th",
+        "time": "11:40AM – 12:10PM",
+        "room": "Roundtable 3",
+        "session_type": "Marketing",
+        "speakers": []
+      },
+      {
+        "id": "dont-be-a-lemming-the-anti-hype-panel",
+        "title": "Don’t Be a Lemming: the Anti-hype Panel",
+        "description": "What’s the difference between true opportunity and hype? Answering that question correctly is the difference between success and failure and the tech industry. And it’s a far more difficult question than it might appear. When everyone is convinced a specific tech is the future, founders – and even VCs – tend to pursue that tech en mass. But as anyone who’s been through a Valley boom and bust cycle knows, collective excitement – hype – isn’t the best indicator.",
+        "date": "October 29th",
+        "time": "11:40AM – 12:20PM",
+        "room": "Builders Stage",
+        "session_type": "Fundraising",
+        "speakers": []
+      },
+      {
+        "id": "pavilion-pitch-silkroad",
+        "title": "Pavilion Pitch Session – Silkroad",
+        "description": "Please join us at the Pitch Showcase Stage in the Expo Hall for these rapid fire pitches. This session will feature companies participating in the Silkroad Pavilion, sponsored by Silkroad Innovation Hub.",
+        "date": "October 29th",
+        "time": "12:45PM – 1:30PM",
+        "room": "Pitch Showcase Stage",
+        "session_type": "Pitches",
+        "speakers": []
+      },
+      {
+        "id": "scaling-trust-to-unicorn-status-with-vantas-christina-cacioppo",
+        "title": "Scaling Trust to Unicorn Status with Vanta’s Christina Cacioppo",
+        "description": "SOC 2, HIPAA, ISO 27001, GDPR — few people want to deal with them, but to be even considered for a deal, many B2B startups now need to comply with one or more compliance frameworks. Vanta, which became a unicorn in 2022, has become somewhat of a standard of its own for helping businesses automate large parts of their initial and recurring audits. We’ll talk to Vanta CEO and co-founder Christina Cacioppo about what it has been like to build and scale a trust management startup, and how AI and other new technologies are shaping its future.",
+        "date": "October 29th",
+        "time": "1:00PM – 1:25PM",
+        "room": "Industry Stage- SaaS",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "successfully-raising-your-seed-or-series-a-in-2024-encore",
+        "title": "Successfully Raising Your Seed or Series A in 2024 (encore)",
+        "description": "In today’s fundraising environment, securing seed or Series A funding requires a solid strategy, a compelling pitch, and a deep understanding of current market dynamics. This session from two former founders turned VCs will provide startup founders with actionable insights on what investors are looking for in 2024, from market fit to financial metrics, and guide you toward raising capital successfully.",
+        "date": "October 29th",
+        "time": "1:00PM – 1:30PM",
+        "room": "Roundtable 1",
+        "session_type": "Fundraising",
+        "speakers": []
+      },
+      {
+        "id": "visionary-companies-embrace-innovation-to-thrive-in-the-fast-pac",
+        "title": "Visionary Companies Embrace Innovation to Thrive in the Fast-Paced Economy",
+        "description": "In today’s rapidly evolving digital landscape, forward-thinking companies are leveraging innovation and modernization to stay competitive. By embracing new tools, trends, and strategies, they position themselves to lead in the fast-paced global economy, setting new benchmarks for efficiency, customer engagement, and sustainable growth. Join this session to learn how these visionary organizations are leveraging technological advancements to compete in today’s market and driving transformative changes across industries.",
+        "date": "October 29th",
+        "time": "1:00PM – 1:30PM",
+        "room": "Roundtable 2",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "is-llm-the-future-to-agi-where-vcs-can-look-for-meaningful-inves",
+        "title": "Is LLM the Future to AGI? Where VCs Can Look for Meaningful Investments?",
+        "description": "Detailed discussion on LLM, future of AI is human, how cognitive science and reasoning will play a big role in finding the right founders for strong ROI. What is the role for VC funds, especially growth equity to scale such frontier tech?",
+        "date": "October 29th",
+        "time": "1:00PM – 1:30PM",
+        "room": "Roundtable 3",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "making-sound-investments-with-ashton-kutcher",
+        "title": "Making Sound Investments with Ashton Kutcher",
+        "description": "Join Sound Ventures partners Ashton Kutcher, Effie Epstein and Guy Oseary on their firm’s big bet on AI, the influence of celebrity status, and the trends they are tracking right now.",
+        "date": "October 29th",
+        "time": "1:30PM – 2:00PM",
+        "room": "Disrupt Stage",
+        "session_type": "Fundraising",
+        "speakers": []
+      },
+      {
+        "id": "smaller-faster-smarter-how-tiny-ai-is-democratizing-ai-technolog",
+        "title": "Smaller, Faster, Smarter: How Tiny AI is Democratizing AI Technology Starting with the Smart Home Camera",
+        "description": "Nest founder, former SVP of Apple’s iPhone and iPod teams, and Principal at Build Collective Tony Fadell joins Plumerai’s Co-founder and CEO Roeland Nusselder to discuss how Tiny AI is democratizing AI. By making AI smaller, efficient, and cost-effective, Tiny AI is paving the way for widespread adoption across industries, fostering innovation, and putting the power of AI into the hands of many. Tiny AI is shaping a future where intelligence is embedded all around us, enhancing our daily lives in ways we’ve only dreamed of. The future is here, and it’s smaller than you think!",
+        "date": "October 29th",
+        "time": "1:30PM – 2:20PM",
+        "room": "Breakout Stage 1",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "bringing-the-outside-in-connecting-startups-with-large-banks-to-",
+        "title": "Bringing The Outside In: Connecting Startups With Large Banks to Power the Future of Finance",
+        "description": "Arvind, along with Citi partners and portfolio company Quantifind, will discuss Citi Ventures’ approach to working with startups and how governance and risk management are essential to responsible innovation. He will also discuss how attendees can peer through their own crystal ball to predict the next big thing in tech and finance, from AI to the fintech revolution and beyond.",
+        "date": "October 29th",
+        "time": "1:30PM – 2:20PM",
+        "room": "Breakout Stage 2",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "startup-battlefield-200-fintech-edtech-pitches",
+        "title": "Startup Battlefield 200 Fintech + Edtech Pitches",
+        "description": "Please join us at the Pitch Showcase Stage in the Expo Hall for these rapid fire pitches. This session will feature the Fintech + Edtech companies from this year’s Startup Battlefield 200 cohort.",
+        "date": "October 29th",
+        "time": "1:30PM – 3:30PM",
+        "room": "Pitch Showcase Stage",
+        "session_type": "Pitches",
+        "speakers": []
+      },
+      {
+        "id": "enterprise-gtm-is-broken-heres-how-to-fix-it",
+        "title": "Enterprise GTM is Broken – Here’s How to Fix It",
+        "description": "The old tactics don’t work anymore. In an era where machines are bombarding inboxes with emails thousands of times a week, how do you break through the noise to make sure the right decision makers are getting the message at a target enterprise company? Based on expertise and learnings from helping over half a million product leaders hone their GTM strategy, SC Moatti will lead this collaborative session exploring the challenges and opportunities of the enterprise GTM space. Founders and operators will walk away with the tools they need to start making real headway towards their enterprise ambitions.",
+        "date": "October 29th",
+        "time": "1:50PM – 2:20PM",
+        "room": "Roundtable 1",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "from-experimental-to-essential-achieving-reliability-with-ai-age",
+        "title": "From Experimental to Essential: Achieving Reliability with AI Agents in Mission-Critical Tasks",
+        "description": "The “happy path” brings imagination to life, but it’s the “unhappy path” that makes the product. AI agents promise to revolutionize nearly every industry, yet the journey to reliability in real-world applications is fraught with challenges. Errors can snowball when agents make multiple decisions in sequence, especially in mission-critical real-world tasks where consistency is non-negotiable. In this session, Mike Carter, founder of Vooma, will lead a discussion of practical approaches for building AI agents that excel in the edge cases. Drawing from his experience launching the AI agent for logistics and building self-driving vehicles, Mike will explore strategies to overcome technical hurdles, enhance agent reliability, and ensure AI agents make correct decisions when the wrong ones are costly.",
+        "date": "October 29th",
+        "time": "1:50PM – 2:20PM",
+        "room": "Roundtable 2",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "building-hybrid-teams-of-tomorrow",
+        "title": "Building Hybrid Teams of Tomorrow",
+        "description": "1. Best practices for building and managing remote and hybrid teams 2. Leveraging AI for recruitment and performance management 3. How hybrid models are reshaping company culture and employee engagement 4. The future of workforce collaboration tools and platforms",
+        "date": "October 29th",
+        "time": "1:50PM – 2:20PM",
+        "room": "Roundtable 3",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "the-startup-battlefield-4",
+        "title": "The Startup Battlefield – Session 4",
+        "description": "TechCrunch’s iconic startup competition is back, as entrepreneurs from around the world pitch expert judges and vie for the Startup Battlefield Cup and $100,000.",
+        "date": "October 29th",
+        "time": "2:00PM – 3:15PM",
+        "room": "Disrupt Stage",
+        "session_type": "Startup Battlefield",
+        "speakers": []
+      },
+      {
+        "id": "from-salesforce-to-sierra-bret-taylors-journey-in-tech-innovatio",
+        "title": "From Salesforce to Sierra: Bret Taylor’s Journey in Tech Innovation",
+        "description": "Former Salesforce co-CEO Bret Taylor, who recently co-founded Sierra, a new startup building a customer experience AI agent, will join us to talk about why he thinks AI agents are going to transform enterprise software. We’ll also chat about what it’s like going from a big company like Salesforce to a brand new startup – and his life as a mover and shaker in Silicon Valley, including being board chair of several high-profile companies including Twitter and OpenAI.",
+        "date": "October 29th",
+        "time": "2:20PM – 2:45PM",
+        "room": "Industry Stage- SaaS",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "how-the-chainsmokers-bring-value-beyond-their-celebrity-status",
+        "title": "How the Chainsmokers Bring Value Beyond their Celebrity Status",
+        "description": "While a lot of celebrities invest in startups, the Chainsmokers are different. Instead of angel investing, Drew Taggart and Alex Pall launched a formal fund, Mantis Venture Capital, invest out of a formal closed-end fund, and back companies in industries their celebrity prowess can’t always help in, like security startups and analytics platforms. In this session, Taggart and Pall will be joined by Dan Lorenc, the founder of Chainguard, to talk about how they are an asset to their B2B startups.",
+        "date": "October 29th",
+        "time": "2:20PM – 2:50PM",
+        "room": "Builders Stage",
+        "session_type": "Fundraising",
+        "speakers": []
+      },
+      {
+        "id": "webby-talks-its-giving-brainrot-how-chronically-online-culture-i",
+        "title": "Webby Talks: It's Giving Brainrot, How Chronically Online Culture Is Taking Us from the Niche to the Nonsensical—and Why That Can Be a Good Thing",
+        "description": "In The Webby Awards’ annual thought leadership series focused on the trends and consumer insights shaping the internet, this year, the leading award for internet excellence will explore how brands, marketers, digital creatives, and technologists are embracing chronically online culture to forge more creative and sustainable connections with audiences. The presentation, titled “it’s giving brainrot: how chronically online culture is taking us from the niche to the nonsensical—and why that can be a good thing,” will be led by The Webby Awards General Manager Nick Borenstein and will feature insights and social listening data from Meltwater, along with trends from over 13,000 submissions to the 28th Annual Webby Awards.Following the presentation, Margaret Johnson (Chief Creative Officer, Goodby, Silverstein & Partners), David Mogensen (VP of Global Marketing, Uber), and Monica Khan (Co-Founder, Bay Area Creator Economy) will join for a fireside chat to share their insights into this cultural moment.",
+        "date": "October 29th",
+        "time": "2:30PM – 3:20PM",
+        "room": "Breakout Stage 1",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "the-age-of-technical-engineering-founders-how-they-are-driving-a",
+        "title": "The Age of Technical Engineering Founders: How they are Driving AI Innovation",
+        "description": "In the evolving AI landscape, innovation is being powered by solutions to deeply technical problems that require leaders to take on a much more hands-on, technical approach. We have moved away from the business founder/CEOs of the past and into a new age where engineering-founders are increasingly more common. This panel, composed of leaders from Honeycomb, MinIO, Atlan and Yugabyte will discuss why engineering skills are critical for the modern leader’s role. They will share specific examples of important skill sets, and how founders can position themselves for long-term success as technology leaders in the future.",
+        "date": "October 29th",
+        "time": "2:30PM – 3:20PM",
+        "room": "Breakout Stage 2",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "harnessing-the-power-of-gen-z-online-community-strategies-for-st",
+        "title": "Harnessing the Power of Gen Z: Online Community Strategies for Startups (encore)",
+        "description": "In today’s digital landscape, Gen Z holds unprecedented influence over market trends and online engagement. How can startups effectively connect with this savvy generation to drive growth and brand loyalty? Join us for an insightful roundtable led by the founder of Computer Science Girlies, a thriving online community that has successfully tapped into the Gen Z zeitgeist. We’ll explore proven strategies for building and leading online communities that resonate with Gen Z users.Discover how to leverage platforms like TikTok and Instagram to create authentic connections, foster active engagement, and expand your startup’s reach. Attendees will gain actionable insights into cultivating a loyal Gen Z user base, enhancing brand presence, and fueling sustainable growth through community-driven initiatives.",
+        "date": "October 29th",
+        "time": "2:40PM – 3:10PM",
+        "room": "Roundtable 1",
+        "session_type": "Marketing",
+        "speakers": []
+      },
+      {
+        "id": "maximizing-prospective-existing-investor-relationships-encore",
+        "title": "Maximizing Prospective + Existing Investor Relationships (encore)",
+        "description": "This panel dives into the often-underutilized dynamics between founders and investors, debunking myths that can undermine these relationships. We’ll discuss how founders can filter the flood of advice, position themselves to best utilize board and investor resources and create partnerships that fuel long-term success. Leading the conversation is Brent Murri, partner at M13, who brings a sharp perspective on venture.",
+        "date": "October 29th",
+        "time": "2:40PM – 3:10PM",
+        "room": "Roundtable 2",
+        "session_type": "Fundraising",
+        "speakers": []
+      },
+      {
+        "id": "ai-infra-devops-and-the-backend-tooling-stack-of-the-next-genera",
+        "title": "AI infra, DevOps and the Backend Tooling Stack of the Next Generation of B2B Software Winners (encore)",
+        "description": "This roundtable explores investment strategies in AI infrastructure software, DevOps, and B2B infrastructure. As AI continues to reshape industries, the demand for robust, scalable infrastructure has never been greater. Participants will discuss emerging trends in cloud computing, containerization, and edge computing tailored for AI workloads. The conversation will delve into the challenges of developing and deploying AI models at scale, examining how DevOps practices are evolving to meet these demands. Additionally, the roundtable will address the growing market for B2B infrastructure software that enables AI integration across various sectors. By analyzing current gaps in the ecosystem and projecting future needs, this discussion aims to identify key areas for strategic investment that will shape the next generation of AI infrastructure.",
+        "date": "October 29th",
+        "time": "2:40PM – 3:10PM",
+        "room": "Roundtable 3",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "from-seed-to-success-what-vcs-want-to-see-from-early-stage-found",
+        "title": "From Seed to Success: What VCs Want to See from Early Stage Founders",
+        "description": "Every startup begins with a founder with a germ of an idea. How does it mature into an actual business? Venture capitalists have to sort through pitches every day to find the gems that will become successful companies. We’ll speak to a trio of investors to find out what they look for in early stage companies.",
+        "date": "October 29th",
+        "time": "2:45PM – 3:15PM",
+        "room": "Industry Stage- SaaS",
+        "session_type": "Fundraising",
+        "speakers": []
+      },
+      {
+        "id": "cloud-doesnt-have-to-mean-compromise",
+        "title": "Cloud Doesn't Have to Mean Compromise",
+        "description": "Join us as we discuss the multi-cloud landscape and learn how Kentik leverages AI and network visibility to help you run cloud – and your entire hybrid estate – in the most cost-efficient way possible. Hear about Kentik’s partnership with Golub Growth, which is driving innovation and enhancing their platform, and learn more about the latest trends and gain practical tips to boost your organization’s IT agility and flexibility.",
+        "date": "October 29th",
+        "time": "2:50PM – 3:10PM",
+        "room": "Builders Stage",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "strictlyvc-disrupt",
+        "title": "StrictlyVC @ Disrupt",
+        "description": "This year, TechCrunch joined forces with StrictlyVC to create smaller, more intimate evenings for our readers. Already this year, we’ve hosted these nights in San Francisco, Los Angeles, Washington, DC, and London. Now you can join us at TechCrunch Disrupt for a special StrictlyVC event, delivering exclusive, insider content while facilitating meaningful connections among leading investors, entrepreneurs and executives. Attendees can anticipate engaging discussions, thought-provoking insights and ample opportunities to forge new connections.– Investor Pass required",
+        "date": "October 29th",
+        "time": "3:00PM – 6:00PM",
+        "room": "Deal Flow Cafe",
+        "session_type": "StrictlyVC",
+        "speakers": []
+      },
+      {
+        "id": "pitch-deck-teardown",
+        "title": "Pitch Deck Teardown",
+        "description": "An articulate, alluring pitch presentation is a big part of successfully fundraising, and yet it’s relatively uncommon for founders to get candid feedback on how they communicated the problem, their solution, and their path to success. During the Pitch Deck Teardown, VCs will offer their live feedback on decks submitted by audience members.",
+        "date": "October 29th",
+        "time": "3:10PM – 3:50PM",
+        "room": "Builders Stage",
+        "session_type": "Pitches",
+        "speakers": []
+      },
+      {
+        "id": "building-the-next-generation-of-deep-tech-startups-with-tony-fad",
+        "title": "Building the Next Generation of Deep Tech Startups with Tony Fadell",
+        "description": "Tony Fadell is best known as the founder of Nest and SVP of Apple’s iPhone and iPod teams. These days, he coaches some of the most innovative deep tech startups as the Principal of Build Collective. Fadell will discuss some of the future’s most promising innovations.",
+        "date": "October 29th",
+        "time": "3:15PM – 3:45PM",
+        "room": "Disrupt Stage",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "the-new-data-pipeline",
+        "title": "The New Data Pipeline",
+        "description": "The rise of modern AI applications has put a renewed emphasis on the importance of the data that underpins them. But simply having data isn’t enough, you also need the tools to manage it, secure it and build the pipelines to let it flow between applications. In this session, we’ll talk to some of the companies that are building the tools to make that happen.",
+        "date": "October 29th",
+        "time": "3:15PM – 3:45PM",
+        "room": "Industry Stage- SaaS",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "enterprise-gtm-is-broken-heres-how-to-fix-it-encore",
+        "title": "Enterprise GTM is Broken – Here’s How to Fix It (encore)",
+        "description": "The old tactics don’t work anymore. In an era where machines are bombarding inboxes with emails thousands of times a week, how do you break through the noise to make sure the right decision makers are getting the message at a target enterprise company? Based on expertise and learnings from helping over half a million product leaders hone their GTM strategy, SC Moatti will lead this collaborative session exploring the challenges and opportunities of the enterprise GTM space. Founders and operators will walk away with the tools they need to start making real headway towards their enterprise ambitions.",
+        "date": "October 29th",
+        "time": "3:30PM – 4:00PM",
+        "room": "Roundtable 1",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "scaling-startups-with-strong-leadership-developing-a-founding-te",
+        "title": "Scaling Startups with Strong Leadership – Developing a Founding Team that Thrives (encore)",
+        "description": "As the startup ecosystem grows increasingly competitive with AI democratizing startup creation and increased investor due diligence, the need for strong leadership extends beyond the CEO to the entire founding team. This roundtable explores the critical role that leadership development plays in scaling successful startups. Learn from seasoned investors and entrepreneurs who have cultivated the right leadership qualities across their teams, creating a foundation for sustained growth and innovation. We’ll discuss the strategies and resources available to help a founding team develop the skills needed to navigate challenges, inspire their teams, and drive long-term success.",
+        "date": "October 29th",
+        "time": "3:30PM – 4:20PM",
+        "room": "Roundtable 2",
+        "session_type": "Fundraising",
+        "speakers": []
+      },
+      {
+        "id": "is-llm-the-future-to-agi-where-vcs-can-look-for-meaningful-inves",
+        "title": "Is LLM the Future to AGI? Where VCs Can Look for Meaningful Investments? (encore)",
+        "description": "Detailed discussion on LLM, future of AI is human, how cognitive science and reasoning will play a big role in finding the right founders for strong ROI. What is the role for VC funds, especially growth equity to scale such frontier tech?",
+        "date": "October 29th",
+        "time": "3:30PM – 4:00PM",
+        "room": "Roundtable 3",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "founder-mode-ai-startups-in-learning-health-and-autonomous-agent",
+        "title": "Founder Mode: AI Startups in Learning, Health, and Autonomous Agents",
+        "description": "Learn how today’s top founders are using AI to solve real-world problems. The panel experts will include: MultiOn who creates AI agents on the web to solve a variety of problems such as booking flights, shopping, and internet research; Miri.ai, which offers health and wellness AI coaches; and LearnTube, which uses generative AI to create instant learning courses, curriculum, quizzes, and certifications. Panel discussion, Q&A, on how to launch, build, grow, and fund an AI startup.",
+        "date": "October 29th",
+        "time": "3:30PM – 4:20PM",
+        "room": "Breakout Stage 2",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "pavilion-pitch-3-korea",
+        "title": "Pavilion Pitch Session 3 – Korea",
+        "description": "Please join us at the Pitch Showcase Stage in the Expo Hall for these rapid fire pitches. This session will feature companies participating in the Korea Pavilion, sponsored by KOTRA (Korea Trade-Investment Promotion Agency).",
+        "date": "October 29th",
+        "time": "3:30PM – 4:00PM",
+        "room": "Pitch Showcase Stage",
+        "session_type": "Pitches",
+        "speakers": []
+      },
+      {
+        "id": "pavilion-pitch-2-silkroad",
+        "title": "Pavilion Pitch Session 2 – Silkroad",
+        "description": "Please join us at the Pitch Showcase Stage in the Expo Hall for these rapid fire pitches. This session will feature companies participating in the Silkroad Pavilion, sponsored by Silkroad Innovation Hub.",
+        "date": "October 29th",
+        "time": "4:00PM – 4:45PM",
+        "room": "Pitch Showcase Stage",
+        "session_type": "Pitches",
+        "speakers": []
+      },
+      {
+        "id": "ai-success-with-google-cloud",
+        "title": "AI Success with Google Cloud",
+        "description": "Elevate your startup at AI Success with Google Cloud! Engage with top Google Cloud experts, explore how AI can transform your business, and indulge in delicious snacks while grabbing exclusive swag. Learn, connect, and grow! This event is by invitation only.",
+        "date": "October 29th",
+        "time": "4:00PM – 6:00PM",
+        "room": "Reception Room",
+        "session_type": "Reception",
+        "speakers": []
+      },
+      {
+        "id": "disrupt-saas-meetup",
+        "title": "Disrupt SaaS Meetup",
+        "description": "Network with fellow SaaS professionals and attendees at a happy hour following the conclusion of Disrupt Day 2. Present your TC Disrupt badge at check-in for entry. Must be 21+ to attend. Check the TC Disrupt app agenda for venue information.",
+        "date": "October 29th",
+        "time": "5:00PM – 7:00PM",
+        "room": "Off-Site",
+        "session_type": "After Hours Event",
+        "speakers": []
+      },
+      {
+        "id": "women-of-techcrunch-reception",
+        "title": "Women of (Tech)Crunch Reception",
+        "description": "TechCrunch and Meta are hosting a reception for the female leaders in the tech industry. This event is by invitation only.",
+        "date": "October 29th",
+        "time": "5:00PM – 7:00PM",
+        "room": "Off-Site",
+        "session_type": "Reception",
+        "speakers": []
+      }
+    ]
+  },
+  {
+    "date": "October 30th",
+    "sessions": [
+      {
+        "id": "registration-hours",
+        "title": "Registration Hours",
+        "description": "Stop by the registration desk to pick up your badge or help desk for assistance.",
+        "date": "October 30th",
+        "time": "8:00AM – 3:30PM",
+        "room": "Registration",
+        "session_type": null,
+        "speakers": []
+      },
+      {
+        "id": "founder-investor-breakfast",
+        "title": "Founder & Investor Breakfast",
+        "description": "This event is by invitation only.",
+        "date": "October 30th",
+        "time": "8:00AM – 10:00AM",
+        "room": "Deal Flow Cafe",
+        "session_type": "Reception",
+        "speakers": []
+      },
+      {
+        "id": "networking-powered-by-braindate",
+        "title": "Networking Powered By Braindate",
+        "description": "Schedule a 1:1 or group Braindate conversation by accessing the Braindate platform via our event app.",
+        "date": "October 30th",
+        "time": "9:00AM – 3:00PM",
+        "room": "Networking Lounge",
+        "session_type": null,
+        "speakers": []
+      },
+      {
+        "id": "how-generative-ai-is-flooding-the-web-with-disinformation",
+        "title": "How Generative AI is Flooding the Web with Disinformation",
+        "description": "As generative AI tools become more widely available – and become cheaper, or even free, to use – they’re being abused by an array of actors, including state actors, to create deepfakes and sow disinformation online. In this session, we’ll hear from experts about the types of deepfakes now circulating the web and some possible ways to combat the threat.",
+        "date": "October 30th",
+        "time": "9:30AM – 10:00AM",
+        "room": "Industry Stage- AI",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "how-to-raise-in-2025-if-youve-taken-a-flat-down-or-extension-rou",
+        "title": "How to Raise in 2025 if You’ve Taken a Flat, Down, or Extension Round",
+        "description": "Old ideas like you need $100 million worth of trailing revenue to go public, and $1 million worth of annual recurring revenue to raise a Series A are so old that they are practically perched atop Abe Lincoln’s head. In today’s market, what a startup needs to raise depends on its sector, founder profile, and, yes, momentum. So what do you need to raise that Series A?",
+        "date": "October 30th",
+        "time": "9:30AM – 10:10AM",
+        "room": "Builders Stage",
+        "session_type": "Fundraising",
+        "speakers": []
+      },
+      {
+        "id": "how-to-stand-out-amongst-the-ai-wave-strategies-for-success-in-e",
+        "title": "How to Stand Out Amongst the AI Wave: Strategies for Success in Enterprise Sales",
+        "description": "Companies worldwide are actively investing in AI deployments across a wide range of use cases, and thousands of startups have emerged to fill these needs. This breakout session features Rudina Seseri, Founder and Managing Partner of Glasswing Ventures, and Marc Boroditsky, President of Revenue at Cloudflare, who explore how AI has created a new paradigm shift in selling to enterprises, what the largest companies are using as criteria when considering their purchases, and how to avoid false indications of interest. Attendees will learn how to optimize scarce time and resources to build a truly valuable and viable product.",
+        "date": "October 30th",
+        "time": "9:30AM – 10:20AM",
+        "room": "Breakout Stage 1",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "startup-battlefield-200-sustainability-mobility-logistics-pitche",
+        "title": "Startup Battlefield 200 Sustainability, Mobility + Logistics Pitches",
+        "description": "Please join us at the Pitch Showcase Stage in the Expo Hall for these rapid fire pitches. This session will feature the Sustainability, Mobility + Logistics companies from this year’s Startup Battlefield 200 cohort.",
+        "date": "October 30th",
+        "time": "9:30AM – 11:30AM",
+        "room": "Pitch Showcase Stage",
+        "session_type": "Pitches",
+        "speakers": []
+      },
+      {
+        "id": "speeding-ahead-lessons-for-the-genai-evolution",
+        "title": "Speeding Ahead: Lessons for the GenAI Evolution",
+        "description": "GenAI has super charged the speed of change. Companies around the world, whether they are startups or global enterprises, are struggling with the question of how they can move faster and take advantage of the incredible opportunities this technology offers. This discussion outlines how Thomson Reuters transformed itself from a content company into a nimble, engineering-focused technology company that now releases updates to more than 85% of its products weekly rather than quarterly – and how it was able to launch seven new generative AI product releases in the past year. This session will discuss the lessons learned, both the successes and failures, of Thomson Reuters evolution to become a leader in the commercialization of GenAI solutions.",
+        "date": "October 30th",
+        "time": "10:00AM – 10:20AM",
+        "room": "Industry Stage- AI",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "ai-innovation-product-market-fit-and-gtm-best-practices-in-start",
+        "title": "AI Innovation, Product-Market-Fit, and GTM Best Practices in Startups",
+        "description": "Join me for an open and interactive discussion focused on the real challenges and opportunities of building AI-driven startups. We’ll dive into how founders are applying AI in innovative ways, tackling scalability issues, and navigating the ethical considerations that come with it. We’ll also explore the journey to finding the right product-market fit, along with practical go-to-market strategies that have worked for other startups. Whether you’re a founder or an AI professional, this roundtable is a chance to share experiences, learn from each other, and spark new ideas.",
+        "date": "October 30th",
+        "time": "10:00AM – 10:30AM",
+        "room": "Roundtable 1",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "evolution-of-a-consumer-ai-startup",
+        "title": "Evolution of a Consumer AI Startup",
+        "description": "The metric for startup success has shifted, and the debate has grown around topics such as which metrics matter, and balancing growth and profitability. Join SoftBank Vision Fund partner and LTK and Misfits Market board member Angela Du for a lively discussion on the key challenges that consumer AI startups are facing, including evaluating product-market fit, scalability and monetization, and how to run the new playbook that startups need to succeed in today’s market.",
+        "date": "October 30th",
+        "time": "10:00AM – 10:30AM",
+        "room": "Roundtable 2",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "how-to-build-tech-that-wins-over-customers",
+        "title": "How to Build Tech That Wins Over Customers",
+        "description": "Rivian’s chief software officer Wassym Bensaid knows a thing or two about building a product from scratch in a high-stakes environment. The software and systems engineering veteran played a central role in Rivian’s recent push to drive down costs, while improving its EVs. It was a massive and existential effort that led the EV maker to rework the guts of the vehicles, including the electrical architecture and a redesigned software user interface. It wasn’t always easy. Bensaid, who has led R&D programs at Freescale and Intel and most recently held a senior engineering leadership position at Silver Spring Networks, has been in this spot before. Learn from Bensaid what it takes to build a product from scratch, including how to navigate conflict and challenges — an essential tool for any startup founder.",
+        "date": "October 30th",
+        "time": "10:10AM – 10:40AM",
+        "room": "Builders Stage",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "the-advantages-of-open-ai",
+        "title": "The Advantages of \"Open\" AI",
+        "description": "There’s increasing support in the AI industry for “open” AI models — models released under permissive licenses that can be repurposed for a range of applications. Standing in contrast to models gated behind paid services, open models are shaking up the AI status quo. The panel will discuss the specific ways how — and what the future might hold.",
+        "date": "October 30th",
+        "time": "10:20AM – 10:50AM",
+        "room": "Industry Stage- AI",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "matt-mullenweg-the-future-of-wordpress-and-the-web",
+        "title": "Matt Mullenweg: The Future of WordPress and the Web",
+        "description": "Matt Mullenweg is co-founder of WordPress, the ubiquitous open source platform powering much of the web. He’s also CEO of Automattic, which was valued at $7.5 billion in its most recent funding round. Mullenweg will join us to discuss his founder journey and where WordPress and the web go next.",
+        "date": "October 30th",
+        "time": "10:30AM – 11:00AM",
+        "room": "Disrupt Stage",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "building-ai-agents-for-product-leaders-founders",
+        "title": "Building AI Agents – For Product Leaders & Founders",
+        "description": "This is a live, hands-on workshop tailored for product leaders, aimed at providing a practical introduction to Agentic products. You’ll gain a clear understanding of what AI agents are, how they function, and where they fit into product strategies. The workshop will guide you step by step through the process of building two AI agents from scratch, giving you a strong grasp of how to apply these tools to solve business problems, automate processes, and enhance user experiences.​Bring your laptops to this interactive workshop!",
+        "date": "October 30th",
+        "time": "10:30AM – 11:20AM",
+        "room": "Breakout Stage 1",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "how-to-pick-a-unicorn",
+        "title": "How to Pick a Unicorn",
+        "description": "Wesley Chan is known in the industry as a unicorn-spotter, with early investments in winners like AngelList, Canva, Flexport, Plaid, Ring, and Robinhood. Formerly of Google Ventures and Felicis Ventures, he’s now a co-founder and managing partner at FPV Ventures, where he oversees a $450 million fund. In this panel, he’ll tell you what he looks for and how to recognize a big winner — or become one.",
+        "date": "October 30th",
+        "time": "10:40AM – 11:10AM",
+        "room": "Builders Stage",
+        "session_type": "Venture Capital",
+        "speakers": []
+      },
+      {
+        "id": "the-ai-clouds-race-whats-behind-the-scenes",
+        "title": "The AI Clouds Race: What's Behind the Scenes",
+        "description": "The fast-growing AI market is not only giving rise to new AI startups but also fostering the emergence of specialist vendors. Competition among cloud providers in the AI space is fierce. Roman will share how Nebius is navigating this race, what is driving the company’s rapid growth, and what it takes to support AI disruptors.",
+        "date": "October 30th",
+        "time": "10:50AM – 11:10AM",
+        "room": "Industry Stage- AI",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "refining-pre-and-post-training-data-strategy-for-llm-success-enc",
+        "title": "Refining Pre and Post-Training Data Strategy for LLM Success (encore)",
+        "description": "LLMs have revolutionized AI, but their success hinges on the quality and strategy of the data used.This roundtable dives deep into the critical role of data throughout the LLM lifecycle.Join us to explore best practices for:1. Pre-training: Learn how to curate diverse, high-quality datasets that fuel robust and unbiased LLMs.2. Post-training: Discover techniques like reinforcement learning and active learning to continually enhance LLM performance and address limitations.3. Ethical considerations: Navigate the complex landscape of data privacy, bias, and fairness in LLM development.Whether you’re building foundational models or leveraging LLMs for specific applications, this session offers insights to optimize your data strategy and unlock the full potential of these powerful AI tools.",
+        "date": "October 30th",
+        "time": "10:50AM – 11:20AM",
+        "room": "Roundtable 1",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "visionary-companies-embrace-innovation-to-thrive-in-the-fast-pac",
+        "title": "Visionary Companies Embrace Innovation to Thrive in the Fast-Paced Economy (encore)",
+        "description": "In today’s rapidly evolving digital landscape, forward-thinking companies are leveraging innovation and modernization to stay competitive. By embracing new tools, trends, and strategies, they position themselves to lead in the fast-paced global economy, setting new benchmarks for efficiency, customer engagement, and sustainable growth. Join this session to learn how these visionary organizations are leveraging technological advancements to compete in today’s market and driving transformative changes across industries.",
+        "date": "October 30th",
+        "time": "10:50AM – 11:20AM",
+        "room": "Roundtable 2",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "ai-on-wheels-with-zoox",
+        "title": "AI on Wheels with Zoox",
+        "description": "Before generative AI took center stage, the burgeoning autonomous vehicle technology industry was where many machine learning and AI experts played. Zoox co-founder and CTO Jesse Levinson , who has been in the thick of it for a decade, is now preparing the Amazon-owned autonomous vehicle company for its next big adventure.",
+        "date": "October 30th",
+        "time": "11:10AM – 11:35AM",
+        "room": "Industry Stage- AI",
+        "session_type": "Transportation",
+        "speakers": []
+      },
+      {
+        "id": "startup-battlefield-alumni-update",
+        "title": "Startup Battlefield Alumni Update",
+        "description": "Battlefield startups from the past return to the stage to tell us what they’ve been up to since they competed for the Disrupt Cup.",
+        "date": "October 30th",
+        "time": "11:15AM – 11:30AM",
+        "room": "Disrupt Stage",
+        "session_type": "Startup Battlefield",
+        "speakers": []
+      },
+      {
+        "id": "making-something-of-nothing",
+        "title": "Making Something of Nothing",
+        "description": "Disrupting the top-heavy mobile industry once is hard enough. Carl Pei has done it twice. Following the success of OnePlus, Pei founded Nothing. The London-based hardware firm aims to make the stodgy world of smartphones fun again.",
+        "date": "October 30th",
+        "time": "11:15AM – 11:45AM",
+        "room": "Builders Stage",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "startup-battlefield-200-saas-enterprise-productivity-pitches-par",
+        "title": "Startup Battlefield 200 SaaS, Enterprise + Productivity Pitches – Part One",
+        "description": "Please join us at the Pitch Showcase Stage in the Expo Hall for these rapid fire pitches. This session will feature the SaaS, Enterprise + Productivity companies from this year’s Startup Battlefield 200 cohort. With so many excellent SaaS companies, this is part one of the two sessions.",
+        "date": "October 30th",
+        "time": "11:30AM – 12:00PM",
+        "room": "Pitch Showcase Stage",
+        "session_type": "Pitches",
+        "speakers": []
+      },
+      {
+        "id": "the-startup-battlefield-final",
+        "title": "The Startup Battlefield Final",
+        "description": "The grand final of TechCrunch’s iconic startup competition. Watch the final 5 teams from around the world pitch expert judges and vie for the Battlefield Cup and $100,000.",
+        "date": "October 30th",
+        "time": "11:30AM – 12:40PM",
+        "room": "Disrupt Stage",
+        "session_type": "Startup Battlefield",
+        "speakers": []
+      },
+      {
+        "id": "from-experimental-to-essential-achieving-reliability-with-ai-age",
+        "title": "From Experimental to Essential: Achieving Reliability with AI Agents in Mission-Critical Tasks (encore)",
+        "description": "The “happy path” brings imagination to life, but it’s the “unhappy path” that makes the product. AI agents promise to revolutionize nearly every industry, yet the journey to reliability in real-world applications is fraught with challenges. Errors can snowball when agents make multiple decisions in sequence, especially in mission-critical real-world tasks where consistency is non-negotiable. In this session, Mike Carter, founder of Vooma, will lead a discussion of practical approaches for building AI agents that excel in the edge cases. Drawing from his experience launching the AI agent for logistics and building self-driving vehicles, Mike will explore strategies to overcome technical hurdles, enhance agent reliability, and ensure AI agents make correct decisions when the wrong ones are costly.",
+        "date": "October 30th",
+        "time": "11:40AM – 12:10PM",
+        "room": "Roundtable 1",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "evolution-of-a-consumer-ai-startup-encore",
+        "title": "Evolution of a Consumer AI Startup (encore)",
+        "description": "The metric for startup success has shifted, and the debate has grown around topics such as which metrics matter, and balancing growth and profitability. Join SoftBank Vision Fund partner and LTK and Misfits Market board member Angela Du for a lively discussion on the key challenges that consumer AI startups are facing, including evaluating product-market fit, scalability and monetization, and how to run the new playbook that startups need to succeed in today’s market.",
+        "date": "October 30th",
+        "time": "1:00PM – 1:30PM",
+        "room": "Roundtable 1",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "navigating-ais-legal-and-ethical-minefield",
+        "title": "Navigating AI's Legal and Ethical Minefield",
+        "description": "AI’s meteoric rise has created new ethical dilemmas and exacerbated old ones, while lawsuits drop left and right. This threatens both new and established AI companies, and the creators and workers whose labor feeds the models. A panel of experts in AI, copyright, and ethics take on this complex and fast-moving problem space.",
+        "date": "October 30th",
+        "time": "1:00PM – 1:30PM",
+        "room": "Industry Stage- AI",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "startup-battlefield-200-saas-enterprise-productivity-pitches-par",
+        "title": "Startup Battlefield 200 SaaS, Enterprise + Productivity Pitches – Part Two",
+        "description": "Please join us at the Pitch Showcase Stage in the Expo Hall for these rapid fire pitches. This session will feature the SaaS, Enterprise + Productivity companies from this year’s Startup Battlefield 200 cohort. With so many excellent SaaS companies, this is Part Two of the session.",
+        "date": "October 30th",
+        "time": "1:00PM – 3:00PM",
+        "room": "Pitch Showcase Stage",
+        "session_type": "Pitches",
+        "speakers": []
+      },
+      {
+        "id": "free-but-not-cheap-the-open-source-dilemma",
+        "title": "Free but Not Cheap, the Open-Source Dilemma",
+        "description": "Open-source software is everywhere, and in everything. Many startups are pursuing explicitly open-source business models. But every company out there that builds software has at least some dependency on open-source code. Recent security issues, however, have made it plain that open-source software is a target for state-level hackers. So, how can we keep building and using code that is built communally, but without the risk of backdoors and other security holes?",
+        "date": "October 30th",
+        "time": "1:05PM – 1:45PM",
+        "room": "Builders Stage",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "what-does-ai-governance-look-like-today-tomorrow-and-beyond",
+        "title": "What does AI Governance Look like Today, Tomorrow, and Beyond?",
+        "description": "AI development continues at a breakneck pace, but how fast is too fast? In this fireside, U.S. AI Safety Institute Director Elizabeth Kelly and California state Senator Scott Wiener (D-San Francisco), the architect of California’s controversial AI safety bill SB 1047, talk about the need to balance AI innovation with safeguards.",
+        "date": "October 30th",
+        "time": "1:30PM – 2:00PM",
+        "room": "Industry Stage- AI",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "safety-trust-and-profit-anticipating-misuse-to-build-safer-produ",
+        "title": "Safety, Trust, and Profit: Anticipating Misuse to Build Safer Products and Attract Investment",
+        "description": "In today’s startup world, one data breach or safety failure can destroy your reputation and growth. For founders, the challenge is how to scale while ensuring user safety, privacy, and security, all within budget. VCs are focusing on startups with strong ESG practices, prioritizing those that address safety early. Failing to comply with data laws, such as COPPA, can result in penalties up to $170 million.",
+        "date": "October 30th",
+        "time": "1:30PM – 2:20PM",
+        "room": "Breakout Stage 1",
+        "session_type": "Fundraising",
+        "speakers": []
+      },
+      {
+        "id": "when-to-cash-out-when-to-keep-fighting",
+        "title": "When to Cash Out, When to Keep Fighting",
+        "description": "Startup founders are often presented with the chance to sell their companies before they reach full maturity. In today’s world with IPOs often delayed past historical norms, it may be tempting for founders to look for a parent company for their startups. But when does it make sense to sell, when should a founder keep blazing their own path?",
+        "date": "October 30th",
+        "time": "1:45PM – 2:25PM",
+        "room": "Builders Stage",
+        "session_type": "Founder",
+        "speakers": []
+      },
+      {
+        "id": "ai-innovation-product-market-fit-and-gtm-best-practices-in-start",
+        "title": "AI Innovation, Product-Market-Fit, and GTM Best Practices in Startups (encore)",
+        "description": "Join me for an open and interactive discussion focused on the real challenges and opportunities of building AI-driven startups. We’ll dive into how founders are applying AI in innovative ways, tackling scalability issues, and navigating the ethical considerations that come with it. We’ll also explore the journey to finding the right product-market fit, along with practical go-to-market strategies that have worked for other startups. Whether you’re a founder or an AI professional, this roundtable is a chance to share experiences, learn from each other, and spark new ideas.",
+        "date": "October 30th",
+        "time": "1:50PM – 2:20PM",
+        "room": "Roundtable 1",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "architecting-the-future-building-hardware-for-an-ai-native-world",
+        "title": "Architecting the Future: Building Hardware for an AI-Native World",
+        "description": "AI-driven hardware is transforming enterprise operations. This panel discussion will address the complexities of building AI-native ecosystems, the role of generative AI in reshaping enterprise technology, and the practical implications for developing scalable AI solutions. Our moderator Lee Ott from HP’s AI Innovation team will be joined by Carl Pei (Nothing phone), Jerry Yue (Brain.ai) and Mark Solomon (Co-Founder, Stealth Startup), who will provide insights into the next generation of AI-powered hardware and its potential to drive business innovation.",
+        "date": "October 30th",
+        "time": "2:00PM – 2:20PM",
+        "room": "Industry Stage- AI",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "the-future-of-ais-data-infrastructure-unlocking-the-power-of-gen",
+        "title": "The Future of AI's Data Infrastructure: Unlocking the Power of Gen AI with MongoDB and Capgemini",
+        "description": "The next generation of business applications will have AI as a user – powering AI agents for customer services, recommendations for online shoppers, anomaly detection for business analysts, etc. This means that businesses must re-architect their applications to be AI-native. To effectively deploy and leverage AI in these applications, businesses need to optimize for data accuracy and bring together structured and unstructured data. This talk will cover how Capgemini and MongoDB are helping accelerate this next generation of data-powered applications.",
+        "date": "October 30th",
+        "time": "2:20PM – 2:40PM",
+        "room": "Industry Stage- AI",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "stablecoins-the-future-of-fintech",
+        "title": "Stablecoins: The Future of Fintech",
+        "description": "Why are stablecoins beginning to take off as a payments product? What are the most interesting examples and use cases? What technology will they replace – and where do they go from here?",
+        "date": "October 30th",
+        "time": "2:30PM – 3:20PM",
+        "room": "Breakout Stage 1",
+        "session_type": "Crypto",
+        "speakers": []
+      },
+      {
+        "id": "building-hybrid-teams-of-tomorrow-encore",
+        "title": "Building Hybrid Teams of Tomorrow (encore)",
+        "description": "1. Best practices for building and managing remote and hybrid teams 2. Leveraging AI for recruitment and performance management 3. How hybrid models are reshaping company culture and employee engagement 4. The future of workforce collaboration tools and platforms",
+        "date": "October 30th",
+        "time": "2:40PM – 3:10PM",
+        "room": "Roundtable 1",
+        "session_type": "Startup",
+        "speakers": []
+      },
+      {
+        "id": "from-search-engines-to-knowledge-engines-perplexitys-rush-toward",
+        "title": "From Search Engines to Knowledge Engines: Perplexity's Rush Toward an AI-curated Web",
+        "description": "Perplexity’s AI-powered search engine might be the next stage of interacting with the web and knowledge in general – or not. But the company is certainly risking it all to manifest that future, even if it ruffles a few feathers along the way. Hear from the CEO how the company plans to take on all comers in this new category of tech.",
+        "date": "October 30th",
+        "time": "3:00PM – 3:25PM",
+        "room": "Disrupt Stage",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "but-is-it-art-generative-ais-evolving-role-in-music-and-video-pr",
+        "title": "But is it Art? Generative AI's Evolving Role in Music and Video Production",
+        "description": "Generative AI is increasingly capable of creating video, music, and other media on demand. But who actually wants it, and why? This panel of AI startups will discuss the growing markets for generative media, and how they can be served without harming or displacing the artists they claim to empower.",
+        "date": "October 30th",
+        "time": "3:05PM – 3:35PM",
+        "room": "Industry Stage- AI",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "colin-kaepernick-helps-creators-own-their-story",
+        "title": "Colin Kaepernick Helps Creators Own Their Story",
+        "description": "If anyone knows a thing or two about losing control of your own narrative, it’s Colin Kaepernick. Now the former NFL quarterback and civil rights activist runs an AI storytelling platform, Lumi, to help creators tell and own their stories. We’ll chat about the media landscape, how AI can empower storytellers, and biases in today’s AI models.",
+        "date": "October 30th",
+        "time": "3:30PM – 4:00PM",
+        "room": "Disrupt Stage",
+        "session_type": "AI",
+        "speakers": []
+      },
+      {
+        "id": "disrupt-ai-meetup",
+        "title": "Disrupt AI Meetup",
+        "description": "Network with fellow AI professionals and attendees at a happy hour as we wrap up Disrupt. Present your TC Disrupt badge at check-in for entry. Must be 21+ to attend. Check the TC Disrupt app agenda for venue information.",
+        "date": "October 30th",
+        "time": "5:00PM – 7:00PM",
+        "room": "Off-Site",
+        "session_type": "After Hours Event",
+        "speakers": []
+      }
+    ]
+  }
+]
