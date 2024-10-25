@@ -11,10 +11,10 @@ Clone the repository and run
 ```
 python server.py
 ```
-then navigate to localhost:5000.
+then navigate to [http://127.0.0.1:5000](http://127.0.0.1:5000).
 
 ## Usage
-Select all interesting events and they will show up at the buttom under "Selected Events". Once you're done, export them to your calender using the "Download Calendar" button.
+Select all interesting events and they will show up at the bottom under "Selected Events". Once you're done, export them to your calendar using the "Download Calendar" button.
 
 ## Future plans
-The small little planner already makes life a lot easier but optimally we could just ask a language model that knows us  which talks to attend and it would return a plan. Unfortunately, the current agenda seems to be too long for the input token maximum of the LLMs that I have tried.
+The small little planner already makes life a lot easier but optimally we could just ask a language model that knows us which talks to attend and it would return a plan. Unfortunately, the current agenda seems to be too long for the input token maximum of the LLMs that I have tried.
